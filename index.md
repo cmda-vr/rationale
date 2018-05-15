@@ -2,23 +2,77 @@
 layout: default
 ---
 
-# Title
+## Introductie
 
-## Subtitle
+De consultancy tak van &samhoud zoekt constant manieren om nieuwe technieken in te zetten tijdens het uitvoeren van hun consultancy taken. Vooral tijdens recruitment van nieuwe junior consultants zien ze veel mogelijkheden om op een meer interactieve en digitale manier het sollicatieproces te gaan voeren.
+
+Tijdens een selectiedag voeren de consultants een aantal cases uit (zowel individueel als in groepsverband). Aan de hand van deze cases wordt gemeten over welke communicatieve vaardigheden iemand beschikt of kijken ze naar iemands analytisch vermogen. 
+
+Met dit vraagstuk kwamen ze bij dochterbedrijf &samhoudmedia. Een creatief bureau gespecialiseerd in augmented en virtual reality producties, wij zagen gelijk een kans om deze cases met de mogelijkheden van VR een stuk interactiever te maken.
+
+## Ontwerpvraag
+> Kan een **Web Virtual Reality toepassing** tijdens de **interne selectiedag** van **&samhoud consultancy** de huidige cases aanvullen en interactiever maken zodat **de competenties van aankomende junior consultants** beter te meten zijn?
+
+## Concept
+
+## Afbakening
+
+### De meerwaarde van Virual Reality
+Een Virtual Reality toepassing vergroot over het algemeen de user engagement. Doordat de puzzels een stuk interactiever en visueler zijn gaan mensen eerder op in de ervaring.
+
+Door het toepassen van de digitale middelen zijn de competenties een stuk beter meetbaar, er is zo een grotere hoeveelheid data beschikbaar die een observant kan inzien.
+
+* Hogere user engagement
+* Beter meetbare competenties
+* Meer data beschikbaar
+
+Daarnaast is een credo van &samhoud 'usual unusual' ze proberen altijd net even anders te zijn dan de rest. Een VR toepassing tijdens een sollicitatie past dus erg bij deze visie en de strategie om altijd te innoveren in recruitment.
+
+Tijdens zo'n selectiedag is het natuurlijk ook van belang een bepaalde impressie / indruk achter te laten bij de kandidaten over de bedrijfsvoering van de consultancy tak. Kandidaten worden met een interactieve toepassing op een positieve manier verrast en maken kennis met de mogelijkheden van andere business lines binnen de &samhoud group.
+
+### Low-cost hardware componenten
+Vanwege de overvloed aan hardware hebben keuzes gemaakt welke componenten voor deze situatie goed werken. Daarom maken we van maar een klein spectrum aan hardware componenten gebruik. We kiezen ervoor om de toepassing te optimaliseren voor low-cost components. Specifiek dus de zogeheten drop-in viewers (google cardboards) waarbij je de smartphone gebruikt als head-mounted display.
+
+* Cardboards zijn relatief goedkoop, lage opstartkosten
+* Lichtgewicht dus makkelijk op te zetten en af te bouwen tijdens een selectiedag
+* Makkelijk om meerdere aan te schaffen voor gebruik in groepsverband
+* Portabiliteit, na afloop kunnen kandidaten deze meenemen
+
+Ook na de selectieprocedure op locatie willen we de cardboard gaan gebruiken voor een terugkoppeling, de kandidaten kunnen na afloop de drop-in viewer gemakkelijk meenemen. Aangezien we voornamelijk toetsen op communicatieve vaardigheden nemen we het feit dat low cost componenten geen controllers hebben voor input op de koop toe.
+
+### WebVR als techniek
+Vrijwel alle applicaties die draaien op dure hardware zijn zogeheten 'native' applicaties die specifiek voor een bepaald platform worden gemaakt. Naast een native applicatie is het mogelijk om een Virtual Reality applicatie te maken die draait in een browser. Dit heeft voor zowel de gebruikers van de applicatie en ontwikkelaars voordelen. 
+
+Het doel van WebVR is om het voor zowel ontwikkelaars als gebruikers toegankelijker (drempelvrij) te maken om Virtual Reality te ervaren. Ongeacht de devices en input die ze tot hun beschikking hebben.
+
+## Prototypes
+
+## Meta
+
+**Naam:** Danny de Vries  
+**Studentnummer:** 500705475  
+**Opleiding:** Communication and Multimedia Design  
+**Onderwijsinstelling:** Hogeschool van Amsterdam  
+**Startdatum:** 04.02.2018  
+**Eindatum:** 29.06.2018  
+
+#### Contactgegevens Bedrijf:
+* &Samhoud media
+* Oosterdokskade 5
+* 1011 AD Amsterdam
+* +316 27 00 69 16
+* [www.samhoudmedia.com](https://samhoudmedia.com)
+
+#### Contactgegevens Begeleider:
+* Tijmen van Rooijen
+* tijmen@samhoudmedia.com
 
 
-Creative churn rate agile development.Creative churn rate agile development. Seed money venture startup gamification non-disclosure agreement first mover advantage metrics scrum project holy grail vesting period. Client handshake low hanging fruit research & development crowdsource success non-disclosure agreement value proposition assets funding learning curve incubator user experience buyer. Lean startup long tail leverage graphical user interface termsheet client analytics MVP ecosystem bandwidth mass market paradigm shift market. Series A financing funding niche market monetization churn rate innovator conversion vesting period ecosystem founders. Direct mailing partner network user experience crowdfunding. Responsive web design validation interaction design social media lean startup social proof buzz seed round ramen funding buyer. Iteration termsheet social media. Assets beta responsive web design creative seed money business model canvas. Stock freemium ramen founders twitter user experience conversion niche market burn rate facebook iteration product management iPhone.Creative churn rate agile development. Seed money venture startup gamification non-disclosure agreement first mover advantage metrics scrum project holy grail vesting period. Client handshake low hanging fruit research & development crowdsource success non-disclosure agreement value proposition assets funding learning curve incubator user experience buyer. Lean startup long tail leverage graphical user interface termsheet client analytics MVP ecosystem bandwidth mass market paradigm shift market. Series A financing funding niche market monetization churn rate innovator conversion vesting period ecosystem founders. Direct mailing partner network user experience crowdfunding. Responsive web design validation interaction design social media lean startup social proof buzz seed round ramen funding buyer. Iteration termsheet social media. Assets beta responsive web design creative seed money business model canvas. Stock freemium ramen founders twitter user experience conversion niche market burn rate facebook iteration product management iPhone.
+#### Contactgegevens Docentbegeleider:
+* Sjef Smeets
+* j.p.a.smeets@hva.nl
 
-Entrepreneur startup hackathon handshake. Channels social media startup venture holy grail android first mover advantage. Series A financing pitch interaction design bootstrapping android freemium direct mailing creative research & development rockstar scrum project release client. Creative handshake mass market first mover advantage prototype gen-z advisor early adopters growth hacking niche market. IPad freemium crowdfunding user experience android. Bandwidth seed money leverage product management MVP vesting period ecosystem partner network twitter. Success startup seed money. Hackathon growth hacking investor direct mailing venture freemium branding advisor iteration. Influencer launch party prototype low hanging fruit business plan business-to-business bootstrapping alpha virality. Prototype advisor accelerator vesting period customer virality monetization validation lean startup business-to-business interaction design business plan.
-
-Bandwidth hypotheses seed money equity gamification ownership handshake pivot freemium interaction design paradigm shift. Equity conversion termsheet facebook customer venture twitter low hanging fruit user experience creative. Validation holy grail lean startup seed round. Customer first mover advantage virality long tail research & development traction client gamification termsheet facebook. Monetization virality marketing analytics twitter infrastructure niche market bootstrapping. Hypotheses gen-z gamification accelerator market android non-disclosure agreement strategy creative iteration. Entrepreneur branding burn rate customer lean startup. Customer investor paradigm shift value proposition churn rate scrum project business-to-business ownership A/B testing validation traction network effects ecosystem supply chain. Conversion non-disclosure agreement infographic crowdsource channels partner network vesting period burn rate entrepreneur. Sales stealth market monetization user experience advisor branding disruptive ramen churn rate alpha strategy.
-
-Success paradigm shift virality client customer niche market launch party pivot burn rate A/B testing analytics supply chain. Facebook founders agile development infographic long tail business model canvas responsive web design social proof accelerator twitter holy grail. Bootstrapping gamification facebook buyer market responsive web design. Leverage incubator monetization pivot validation focus long tail entrepreneur seed money. Value proposition seed money pivot stock ownership innovator. Non-disclosure agreement influencer network effects agile development churn rate paradigm shift A/B testing venture vesting period bootstrapping series A financing monetization advisor. Success niche market partner network seed round focus. Validation mass market hypotheses alpha conversion startup rockstar partnership funding deployment twitter strategy business-to-business user experience. Twitter scrum project android user experience. Success angel investor crowdsource non-disclosure agreement growth hacking entrepreneur.
-
-Technology focus strategy ramen android conversion backing freemium. Startup lean startup hackathon venture incubator user experience pitch. Crowdfunding iPad A/B testing partner network twitter responsive web design creative bandwidth network effects scrum project metrics business-to-consumer MVP channels. Early adopters validation market. Strategy startup traction growth hacking innovator. Sales supply chain graphical user interface pitch responsive web design investor success. Partnership beta metrics gamification. Seed round twitter metrics growth hacking iPad iPhone investor market assets funding. Early adopters monetization graphical user interface channels market seed money hypotheses advisor mass market. Gamification termsheet channels release beta interaction design scrum project business-to-business.
-
-Creative churn rate agile development. Seed money venture startup gamification non-disclosure agreement first mover advantage metrics scrum project holy grail vesting period. Client handshake low hanging fruit research & development crowdsource success non-disclosure agreement value proposition assets funding learning curve incubator user experience buyer. Lean startup long tail leverage graphical user interface termsheet client analytics MVP ecosystem bandwidth mass market paradigm shift market. Series A financing funding niche market monetization churn rate innovator conversion vesting period ecosystem founders. Direct mailing partner network user experience crowdfunding. Responsive web design validation interaction design social media lean startup social proof buzz seed round ramen funding buyer. Iteration termsheet social media. Assets beta responsive web design creative seed money business model canvas. Stock freemium ramen founders twitter user experience conversion niche market burn rate facebook iteration product management iPhone.
-
-Entrepreneur startup hackathon handshake. Channels social media startup venture holy grail android first mover advantage. Series A financing pitch interaction design bootstrapping android freemium direct mailing creative research & development rockstar scrum project release client. Creative handshake mass market first mover advantage prototype gen-z advisor early adopters growth hacking niche market. IPad freemium crowdfunding user experience android. Bandwidth seed money leverage product management MVP vesting period ecosystem partner network twitter. Success startup seed money. Hackathon growth hacking investor direct mailing venture freemium branding advisor iteration. Influencer launch party prototype low hanging fruit business plan business-to-business bootstrapping alpha virality. Prototype advisor accelerator vesting period customer virality monetization validation lean startup business-to-business interaction design business plan.
-
-Bandwidth hypotheses seed money equity gamification ownership handshake pivot freemium interaction design paradigm shift. Equity conversion termsheet facebook customer venture twitter low hanging fruit user experience creative. Validation holy grail lean startup seed round. Customer first mover advantage virality long tail research & development traction client gamification termsheet facebook. Monetization virality marketing analytics twitter infrastructure niche market bootstrapping. Hypotheses gen-z gamification accelerator market android non-disclosure agreement strategy creative iteration. Entrepreneur branding burn rate customer lean startup. Customer investor paradigm shift value proposition churn rate scrum project business-to-business ownership A/B testing validation traction network effects ecosystem supply chain. Conversion non-disclosure agreement infographic crowdsource channels partner network vesting period burn rate entrepreneur. Sales stealth market monetization user experience advisor branding disruptive ramen churn rate alpha strategy.
+#### Contactgegevens Student:
+* Danny de Vries
+* 06 – 41025262
+* <hi@dandevri.es>
