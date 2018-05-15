@@ -1,9 +1,11 @@
 <!DOCTYPE html>
 <html lang="nl">
 <head>
-  <title>Hello World</title>
+  {% include meta.html %}
+  {% include og.html %}
 </head>
 <body>
+  {% include components/bar.html %}
   {{content}}
 </body>
 </html>

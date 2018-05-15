@@ -1,3 +1,5 @@
 title: (show)case
 exclude: ['README.md', 'LICENSE']
 permalink: pretty
+sass:
+    sass_dir: _sass

@@ -2,6 +2,6 @@
 layout: default
 ---
 
-# Hello World
+# Title
 
-This is a nice one pager
+## Subtitle
