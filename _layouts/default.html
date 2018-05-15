@@ -5,7 +5,10 @@
   {% include og.html %}
 </head>
 <body>
-  {% include components/bar.html %}
-  {{content}}
+  {% include components/top-bar.html %}
+  {% include components/nav.html %}
+  <div class="container">
+    {{content}}
+  </div>
 </body>
 </html>
