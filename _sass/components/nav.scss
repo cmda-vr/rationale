@@ -1,5 +1,13 @@
 nav {
   position: fixed;
-  right: 20vw;
+  right: 8vw;
   top: 10vh;
+  color: $primary-color;
+  a {
+    display: block;
+  }
+  ol {
+    padding: 0;
+    list-style-type: none;
+  }
 }
