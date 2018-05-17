@@ -1,13 +1,29 @@
 nav {
   position: fixed;
-  right: 8vw;
-  top: 10vh;
-  color: $primary-color;
+  right: 6vw;
+  top:0vh;
+  background: $primary-color;
+  padding: 1em;
+  height: 100%;
   a {
     display: block;
+    line-height: 2.5;
+    text-transform: capitalize;
   }
   ol {
+    color: $background-color;
     padding: 0;
     list-style-type: none;
+  }
+  hr {
+    color: $background-color;
+  }
+  ul {
+    a {
+      background: $background-color;
+      color: $primary-color !important;
+      padding: 0.2em 0.5em;
+      margin-bottom: 1em;
+    }
   }
 }

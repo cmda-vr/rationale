@@ -6,12 +6,12 @@ layout: default
 
 De consultancy tak van &samhoud zoekt constant manieren om nieuwe technieken in te zetten tijdens het uitvoeren van hun consultancy taken. Vooral tijdens recruitment van nieuwe junior consultants zien ze veel mogelijkheden om op een meer interactieve en digitale manier het sollicatieproces te gaan voeren.
 
-Tijdens een selectiedag voeren de consultants een aantal cases uit (zowel individueel als in groepsverband). Aan de hand van deze cases wordt gemeten over welke communicatieve vaardigheden iemand beschikt of kijken ze naar iemands analytisch vermogen. 
+Tijdens een selectiedag voeren de consultants een aantal cases uit (zowel individueel als in groepsverband). Aan de hand van deze cases wordt door observanten gemeten over welke communicatieve of analytische vaardigheden een kandidaat beschikt.
 
 Met dit vraagstuk kwamen ze bij dochterbedrijf &samhoudmedia. Een creatief bureau gespecialiseerd in augmented en virtual reality producties, wij zagen gelijk een kans om deze cases met de mogelijkheden van VR een stuk interactiever te maken.
 
 ## Ontwerpvraag
-> Kan een **Web Virtual Reality toepassing** tijdens de **interne selectiedag** van **&samhoud consultancy** de huidige cases aanvullen en interactiever maken zodat **de competenties van aankomende junior consultants** beter te meten zijn?
+> Hoe kan een **Web Virtual Reality toepassing** tijdens de **interne selectiedag** van **&samhoud consultancy** de huidige cases aanvullen en interactiever maken zodat **de competenties van aankomende junior consultants** beter te meten zijn?
 
 ## Concept
 Dit alles in de vorm van een escape room-achtige webtoepassing die gebruik maakt van een smartphone en zogeheten drop-in viewers. De escape room leent communicatieve elementen van spelshows zoals Wie is de Mol en gamification van VR puzzels als Keep talking and nobody explodesf die de analytische competentie van een kandidaat op de proef stellen. De kandidaten moeten doormiddel van spraak een cijferslot weten te kraken. Na afloop van de selectiedag nemen de kandidaten de drop-in viewers mee en krijgen ze een persoonlijke boodschap in de vorm van een 360-video.
@@ -36,7 +36,7 @@ Junior consultants werken aan complexe problemen voor verschillende bedrijven. Z
 ## Afbakening
 
 ### De meerwaarde van Virual Reality
-Een Virtual Reality toepassing vergroot over het algemeen de user engagement. Doordat de puzzels een stuk interactiever en visueler zijn gaan mensen eerder op in de ervaring.
+Een Virtual Reality toepassing vergroot over het algemeen de user engagement. Doordat de cases een stuk interactiever en visueler zijn gaan mensen eerder op in de ervaring.
 
 Door het toepassen van de digitale middelen zijn de competenties een stuk beter meetbaar, er is zo een grotere hoeveelheid data beschikbaar die een observant kan inzien.
 
@@ -46,12 +46,12 @@ Door het toepassen van de digitale middelen zijn de competenties een stuk beter 
 
 Daarnaast is een credo van &samhoud 'usual unusual' ze proberen altijd net even anders te zijn dan de rest. Een VR toepassing tijdens een sollicitatie past dus erg bij deze visie en de strategie om altijd te innoveren in recruitment.
 
-*Dit is een sidenote*
+*Dit is een sidenote maar dan met veel meer tekst*
 
 Tijdens zo'n selectiedag is het natuurlijk ook van belang een bepaalde impressie / indruk achter te laten bij de kandidaten over de bedrijfsvoering van de consultancy tak. Kandidaten worden met een interactieve toepassing op een positieve manier verrast en maken kennis met de mogelijkheden van andere business lines binnen de &samhoud group.
 
 ### Low-cost hardware componenten
-Vanwege de overvloed aan hardware hebben keuzes gemaakt welke componenten voor deze situatie goed werken. Daarom maken we van maar een klein spectrum aan hardware componenten gebruik. We kiezen ervoor om de toepassing te optimaliseren voor low-cost components. Specifiek dus de zogeheten drop-in viewers (google cardboards) waarbij je de smartphone gebruikt als head-mounted display.
+Vanwege de overvloed aan hardware zijn er keuzes gemaakt in welke componenten voor deze situatie goed werken. Daarom maken we van maar een klein spectrum aan hardware componenten gebruik. We kiezen ervoor om de toepassing te optimaliseren voor low-cost components. Specifiek dus de zogeheten drop-in viewers (google cardboards) waarbij je de smartphone gebruikt als head-mounted display.
 
 * Cardboards zijn relatief goedkoop, lage opstartkosten
 * Lichtgewicht dus makkelijk op te zetten en af te bouwen tijdens een selectiedag
