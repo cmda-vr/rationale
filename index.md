@@ -6,34 +6,28 @@ layout: default
 
 De consultancy tak van &samhoud zoekt constant manieren om nieuwe technieken in te zetten tijdens het uitvoeren van hun consultancy taken. Vooral tijdens recruitment van nieuwe junior consultants zien ze veel mogelijkheden om op een meer interactieve en digitale manier het sollicatieproces te gaan voeren.
 
-Tijdens een selectiedag voeren de consultants een aantal cases uit (zowel individueel als in groepsverband). Aan de hand van deze cases wordt door observanten gemeten over welke communicatieve of analytische vaardigheden een kandidaat beschikt.
-
-Met dit vraagstuk kwamen ze bij dochterbedrijf &samhoudmedia. Een creatief bureau gespecialiseerd in augmented en virtual reality producties, wij zagen gelijk een kans om deze cases met de mogelijkheden van VR een stuk interactiever te maken.
+Tijdens een selectiedag voeren de consultants een aantal cases uit, zowel individueel als in groepsverband. Aan de hand van deze cases wordt door observanten gemeten over welke communicatieve of analytische vaardigheden een kandidaat beschikt.
 
 ## Ontwerpvraag
 > Hoe kan een **Web Virtual Reality toepassing** tijdens de **interne selectiedag** van **&samhoud consultancy** de huidige cases aanvullen en interactiever maken zodat **de competenties van aankomende junior consultants** beter te meten zijn?
 
-## Concept
-Dit alles in de vorm van een escape room-achtige webtoepassing die gebruik maakt van een smartphone en zogeheten drop-in viewers. De escape room leent communicatieve elementen van spelshows zoals Wie is de Mol en gamification van VR puzzels als Keep talking and nobody explodesf die de analytische competentie van een kandidaat op de proef stellen. De kandidaten moeten doormiddel van spraak een cijferslot weten te kraken. Na afloop van de selectiedag nemen de kandidaten de drop-in viewers mee en krijgen ze een persoonlijke boodschap in de vorm van een 360-video.
+Biedt een Virtual Reality toepassing in dit geval een meerwaarde in het recruitment process en wat zou deze toepassing moeten bieden om praktisch ingezet te worden?
 
-## Research
+Met dit vraagstuk kwam &samhoud consultancy bij dochterbedrijf &samhoud media. Als creatief bureau, gespecialiseerd in augmented en virtual reality producties, zag &samhoud media kansen om deze cases met de mogelijkheden van Virtual Reality  een stuk interactiever te maken.
 
-### Scenario
-Voor een selectiedag worden zo'n 25 kandidaten uitgenodigd, de kandidaten staan gedurende de dag eigenlijk constant met elkaar in contact. Een groot deel van de selectiedag is in groepsverband maar er zijn ook individuele momenten. Over het algemeen worden alle kandidaten geinformeerd via de telefoon en krijgen ze op dat moment feedback waarom ze wel of niet door zijn. Dit is op basis van de observaties en de competenties die gedurende de dag tijdens de verschillende onderdelen zijn verzameld op een beoordelingsformulier.
-
-Door interviews met kandidaten heb ik een redelijk beeld kunnen schetsen van hoe kandidaten de dag hebben ervaren zonder zelf aanwezig te kunnen zijn.
-
-* Veel verschil in hoe kandidaten zich voorbereiden en wat de setting is. Sommigen zijn in formele kleding (pak) anderen een stuk informeler.
-* Omdat je veel met elkaar bent tijdens de procedure let je veel op wat anderen aan het doen zijn. Onzekerheid over je eigen aanpak.
-* Iedereen is gedurende de dag vrij zenuwachtig, van tevoren worden er weinig instructies gegeven en ook tijdens de uitleg van de cases wordt er bewust wat verwarring geschept.
-* Er is veel verschil over de mate waarin de resultaten naar je worden terugkoppeld, sommigen krijgen veel feedback andere minimaal.
-* De selectiedag is voor veel kandidaten een bevestiging dat &samhoud een bedrijf is waar ze voor willen werken. De gehele sfeer en de visie die ze verkondigen is erg informeel.
-* Uit de cases komen geen winnaar. Iedereen heeft een andere aanpak, het gaat dus niet zozeer om het resultaat.
+### Huidige situatie
+Tijdens een selectiedag (junior caroussel) voeren ongeveer 25 aankomende consultants een aantal cases uit. Een groot deel van de selectiedag is in groepsverband maar er zijn ook individuele momenten. Na afloop worden de kandidaten via de telefoon geïnformeerd feedback en de reden waarom ze wel of niet door zijn. Dit is op basis van de observaties en de competenties die 
+gedurende de dag tijdens de verschillende onderdelen zijn verzameld op een beoordelingsformulier.
 
 ### Focus Group
-Junior consultants werken aan complexe problemen voor verschillende bedrijven. Ze analyseren business problemen en komen met effectieve oplossingen. Tijdens de werving van kandidaten focussen ze zich vooral op een jongere generatie. De gemiddelde leeftijd van aankomende junior consultants ligt tussen de 23 - 30 jaar. Van net afgestudeerd (technische of economische opleiding bij voorkeur) tot 3 jaar werkervaring in het vakgebied.
+De kandidaten voor de selectiedag gaan straks aan de slag als junior consultant. Junior consultants werken aan complexe problemen voor verschillende bedrijven. Ze analyseren business problemen en komen met effectieve oplossingen. Strategische en abstracte vraagstukken zet een consultant om in concrete acties en methodes. Bijvoorbeeld in de vorm van team meetings of trainingen / workshops. 
 
-## Afbakening
+Tijdens de werving van kandidaten focussen ze zich vooral op een jongere generatie. De gemiddelde leeftijd van aankomende junior consultants ligt tussen de 23 - 30 jaar. Van net afgestudeerd (technische of economische opleiding bij voorkeur) tot 3 jaar werkervaring in het vakgebied.
+
+### Oplossing
+Door het ontwikkelen van Virtual Reality Escape Room, die gebruik maakt van een smartphone en zogeten drop-in viewers, is het voor de observanten van &samhoud consultancy op een meer speelse en interactievere manier mogelijk om de competenties van de kandidaten te meten. Na afloop van de selectiedag nemen de kandidaten de drop-in viewers mee en krijgen ze een persoonlijke uitnodiging voor een vervolggesprek van oprichter Salem Samhoud in de vorm van een 360-video.
+
+## Onderbouwing
 
 ### De meerwaarde van Virual Reality
 Een Virtual Reality toepassing vergroot over het algemeen de user engagement. Doordat de cases een stuk interactiever en visueler zijn gaan mensen eerder op in de ervaring.
@@ -79,6 +73,8 @@ De drop-in viewers die tijdens de junior caroussel gebruikt worden nemen de kand
 De video is opgenomen met een Insta 360 camera, een relatief simpele camera waarbij het opnemen vrij gemakkelijk gaat. 'Point and shoot' kwam goed uit bij de geringe tijd die we beschikbaar hadden.
 
 Adobe Premiere Pro CC heeft nieuwe mogelijkheden om 360-video te bewerken en in post-productie nog te schaven. Het syncen van de audio en het toevoegen van graphics (intro / outro) kan met deze tool prima.
+
+## Onderzoek
 
 ## Conclusie
 
