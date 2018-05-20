@@ -9,6 +9,10 @@ nav {
     display: block;
     line-height: 2.5;
     text-transform: capitalize;
+    color: $background-color;
+    &:visited {
+      color: inherit;
+    }
   }
   ol {
     color: $background-color;
