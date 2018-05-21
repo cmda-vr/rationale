@@ -6,7 +6,7 @@ layout: default
 
 De consultancy tak van &samhoud zoekt constant manieren om nieuwe technieken in te zetten tijdens het uitvoeren van hun consultancy taken. Vooral tijdens recruitment van nieuwe junior consultants zien ze veel mogelijkheden om op een meer interactieve en digitale manier het sollicatieproces te gaan voeren.
 
-*Lees meer over de aanleiding van dit project.*
+*[Lees meer over de aanleiding van dit project →]()*
 
 Tijdens een selectiedag voeren de consultants een aantal cases uit, zowel individueel als in groepsverband. Aan de hand van deze cases wordt door observanten gemeten over welke communicatieve of analytische vaardigheden een kandidaat beschikt.
 
@@ -21,14 +21,14 @@ Met dit vraagstuk kwam &samhoud consultancy bij dochterbedrijf &samhoud media. A
 ### Huidige situatie
 Tijdens een selectiedag (junior caroussel) voeren ongeveer 25 aankomende consultants een aantal cases uit. Een groot deel van de selectiedag is in groepsverband maar er zijn ook individuele momenten. 
 
-*Lees meer over het scenario gedurende de selectiedag.*
+*[Lees meer over het scenario gedurende de selectiedag. →]()*
 
 Na afloop worden de kandidaten via de telefoon geïnformeerd feedback en de reden waarom ze wel of niet door zijn. Dit is op basis van de observaties en de competenties die  gedurende de dag tijdens de verschillende onderdelen zijn verzameld op een beoordelingsformulier.
 
 ### Focus Group
 De kandidaten voor de selectiedag gaan straks aan de slag als junior consultant. Junior consultants werken aan complexe problemen voor verschillende bedrijven. Ze analyseren business problemen en komen met effectieve oplossingen. Strategische en abstracte vraagstukken zet een consultant om in concrete acties en methodes. Bijvoorbeeld in de vorm van team meetings of trainingen / workshops. 
 
-*Bekijk hier een overzicht van een persona.*
+*[Bekijk hier het volledige persona. →]()*
 
 Tijdens de werving van kandidaten focussen ze zich vooral op een jongere generatie. De gemiddelde leeftijd van aankomende junior consultants ligt tussen de 23 - 30 jaar. Van net afgestudeerd (technische of economische opleiding bij voorkeur) tot 3 jaar werkervaring in het vakgebied.
 
@@ -42,30 +42,40 @@ Een Virtual Reality toepassing vergroot over het algemeen de user engagement. Do
 
 Door het toepassen van de digitale middelen zijn de competenties een stuk beter meetbaar, er is zo een grotere hoeveelheid data beschikbaar die een observant kan inzien.
 
-* Hogere user engagement
-* Beter meetbare competenties
-* Meer data beschikbaar
+* **Hogere user engagement**  
+  Door een digitale oplossing ten opzichte van een 'papier' versie gaan de kandidaten actiever te werk.
+* **Beter meetbare competenties**  
+  Tijdens het gebruik van de toepassing kunnen de kandidaten alleen doormiddel van spraak met elkaar communiceren.
+* **Meer data beschikbaar**  
+  Vanwege de infastructuur van het web is het mogelijk om meer data te verzamelen tijdens het gebruik van de toepassing.
 
 Daarnaast is een credo van &samhoud 'usual unusual' ze proberen altijd net even anders te zijn dan de rest. Een VR toepassing tijdens een sollicitatie past dus erg bij deze visie en de strategie om altijd te innoveren in recruitment.
 
-*Dit is een sidenote maar dan met veel meer tekst*
-
-Tijdens zo'n selectiedag is het natuurlijk ook van belang een bepaalde impressie / indruk achter te laten bij de kandidaten over de bedrijfsvoering van de consultancy tak. Kandidaten worden met een interactieve toepassing op een positieve manier verrast en maken kennis met de mogelijkheden van andere business lines binnen de &samhoud group.
+Tijdens de selectiedag is het natuurlijk ook van belang een bepaalde impressie / indruk achter te laten bij de kandidaten over de bedrijfsvoering van de consultancy tak. Kandidaten worden met een interactieve toepassing op een positieve manier verrast en maken kennis met de mogelijkheden van andere business lines binnen de &samhoud group.
 
 ### Low-cost hardware componenten
-Vanwege de overvloed aan hardware zijn er keuzes gemaakt in welke componenten voor deze situatie goed werken. Daarom maken we van maar een klein spectrum aan hardware componenten gebruik. We kiezen ervoor om de toepassing te optimaliseren voor low-cost components. Specifiek dus de zogeheten drop-in viewers (google cardboards) waarbij je de smartphone gebruikt als head-mounted display.
+Vooral de laatste paar jaren is er meer hardware om virtual reality te ervaren beschikbaar. Op basis van het huidige scenario en de omgeving van de selectiedag zijn er keuzes gemaakt in hardware componenten die voor deze specifieke situatie goed werken. Daarom maken we van maar een klein spectrum aan hardware componenten gebruik. 
 
-* Cardboards zijn relatief goedkoop, lage opstartkosten
-* Lichtgewicht dus makkelijk op te zetten en af te bouwen tijdens een selectiedag
-* Makkelijk om meerdere aan te schaffen voor gebruik in groepsverband
-* Portabiliteit, na afloop kunnen kandidaten deze meenemen
+*[Technische termen en zijn opgenomen in een verklarende woordenlijst. →]()*
+
+Er is gekozen om de toepassing te optimaliseren voor low-cost components. Specifiek de zogeheten drop-in viewers (google cardboard is het bekendste voorbeeld) waarbij je de smartphone gebruikt als head-mounted display.
+
+* **Relatief lage opstartkosten**  
+  De drop-in viewers gemaakt van karton of plastic hebben lage inkoopkosten waardoor het goedkoop is om meerdere aan te schaffen voor gebruik in groepsverband tijdens de selectiedag.
+* **Portabiliteit**  
+  Vanwege het formaat en het gewicht zijn de drop-in viewers makkelijk na afloop mee te nemen.
+* **Opstelling**  
+  Duurdere hardware kits gaan vaak gepaard met kabels, al met al dus een langere opstarttijd. Drop-in viewers maken alleen gebruik van de smartphone van een kandidaat.
 
 Ook na de selectieprocedure op locatie willen we de cardboard gaan gebruiken voor een terugkoppeling, de kandidaten kunnen na afloop de drop-in viewer gemakkelijk meenemen. Aangezien we voornamelijk toetsen op communicatieve vaardigheden nemen we het feit dat low cost componenten geen controllers hebben voor input op de koop toe.
 
 ### WebVR als techniek
-Vrijwel alle applicaties die draaien op dure hardware zijn zogeheten 'native' applicaties die specifiek voor een bepaald platform worden gemaakt. Naast een native applicatie is het mogelijk om een Virtual Reality applicatie te maken die draait in een browser. Dit heeft voor zowel de gebruikers van de applicatie en ontwikkelaars voordelen. 
+Vrijwel alle applicaties die draaien op dure hardware zijn zogeheten 'native' applicaties die specifiek voor een bepaald platform worden gemaakt. Naast een native applicatie is het mogelijk om een Virtual Reality applicatie te maken die draait in een browser. Het doel van WebVR is om het voor zowel ontwikkelaars als gebruikers toegankelijker (drempelvrij) te maken om Virtual Reality te ervaren. Ongeacht de devices en input die ze tot hun beschikking hebben.
 
-Het doel van WebVR is om het voor zowel ontwikkelaars als gebruikers toegankelijker (drempelvrij) te maken om Virtual Reality te ervaren. Ongeacht de devices en input die ze tot hun beschikking hebben.
+#### Ontwikkelaars
+
+
+#### Gebruikers
 
 ## Prototypes
 Het uitwerken van de prototypes is vooral technisch van aard. In een vrij vroeg stadium heb ik aangegeven dat ik alle prototypes publiekelijk (open-source) wou ontwikkelen. De broncode en documentatie is voor iedereen inzichtelijk. Deze manier van werken zorgt ervoor dat ik snel iteraties en feedback kan vergaren
@@ -84,8 +94,19 @@ Adobe Premiere Pro CC heeft nieuwe mogelijkheden om 360-video te bewerken en in 
 
 ## Onderzoek
 
+Na een eerste versie klaar te hebben begon ik deze aan een aantal mensen voor te leggen. Op basis van mijn bevindingen heb ik in iteraties het prototype aangepast.
+
+Nadat er op de link werd geklikt begon de video automatisch met afspelen waardoor er veel te weinig tijd was voor iemand om de telefoon in de drop-in viewer te stoppen. Om dit af te vangen krijgt de gebruiker eerst een opstartscherm te zien met instructies.
+De notificatie dat de video met geluid bekeken moest worden was in de video zelf verwerkt, eigenlijk is het dan al te laat. Deze notificatie zit nu in het opstartscherm.
+Daarbij, in eerste instantie was de intro veel te kort waardoor iemand zich niet comfortabel voelde.
+Als iemand eenmaal de cardboard ophad, terwijl het intro nog aan het afspelen was, was het niet helemaal duidelijk wanneer de video ging afspelen. Door een 'progress bar' toe te voegen kreeg de gebruiker meer feedback.
+De stem van Salem was in sommige gevallen nog wat onduidelijk.
+
+
 ## Conclusie
 De Escape Room is een aanvulling op de huidige cases die tijdens de junior caroussel worden behandeld. Het resultaat, na afloop van de caroussel, hangt niet volledig af van de prestaties tijdens gedurende de toepassing. Dit geldt grotendeels voor de 360-video's. De resultaten worden in eerste instantie altijd nog telefonisch naar de kandidaat gecommuniceerd. Helemaal als het een afwijzing betreft, vanuit ethisch perspectief is er gekozen om de afwijzing alleen telefonisch te houden.
+
+*[Lees de reflectie over het verloop van het project. →]()*
 
 Binnen de context van &samhoud consultancy en de informele sfeer die gedurende de caroussel heerst past de WebVR toepassing prima bij de strategie om altijd te innoveren in recruitment waarbij 'usual unusual' voor &samhoud consultancy centraal staat. In een stricter solliciateproces kan ik me voorstellen dat het inzetten van een virtual reality toepassing ongepast kan zijn.
 

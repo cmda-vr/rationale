@@ -31,5 +31,13 @@
     vertical-align: baseline;
     position: relative;
     color: $primary-color;
+    a {
+      text-transform: none;
+      transition: all 250ms;
+      &:hover, &:focus {
+        opacity: 1;
+        text-decoration: underline;
+      }
+    }
   }
 }
