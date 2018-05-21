@@ -6,7 +6,10 @@ layout: default
 
 De consultancy tak van &samhoud zoekt constant manieren om nieuwe technieken in te zetten tijdens het uitvoeren van hun consultancy taken. Vooral tijdens recruitment van nieuwe junior consultants zien ze veel mogelijkheden om op een meer interactieve en digitale manier het sollicatieproces te gaan voeren.
 
+*Lees meer over de aanleiding van dit project.*
+
 Tijdens een selectiedag voeren de consultants een aantal cases uit, zowel individueel als in groepsverband. Aan de hand van deze cases wordt door observanten gemeten over welke communicatieve of analytische vaardigheden een kandidaat beschikt.
+
 
 ## Ontwerpvraag
 > Hoe kan een **Web Virtual Reality toepassing** tijdens de **interne selectiedag** van **&samhoud consultancy** de huidige cases aanvullen en interactiever maken zodat **de competenties van aankomende junior consultants** beter te meten zijn?
@@ -16,11 +19,16 @@ Biedt een Virtual Reality toepassing in dit geval een meerwaarde in het recruitm
 Met dit vraagstuk kwam &samhoud consultancy bij dochterbedrijf &samhoud media. Als creatief bureau, gespecialiseerd in augmented en virtual reality producties, zag &samhoud media kansen om deze cases met de mogelijkheden van Virtual Reality  een stuk interactiever te maken.
 
 ### Huidige situatie
-Tijdens een selectiedag (junior caroussel) voeren ongeveer 25 aankomende consultants een aantal cases uit. Een groot deel van de selectiedag is in groepsverband maar er zijn ook individuele momenten. Na afloop worden de kandidaten via de telefoon geïnformeerd feedback en de reden waarom ze wel of niet door zijn. Dit is op basis van de observaties en de competenties die 
-gedurende de dag tijdens de verschillende onderdelen zijn verzameld op een beoordelingsformulier.
+Tijdens een selectiedag (junior caroussel) voeren ongeveer 25 aankomende consultants een aantal cases uit. Een groot deel van de selectiedag is in groepsverband maar er zijn ook individuele momenten. 
+
+*Lees meer over het scenario gedurende de selectiedag.*
+
+Na afloop worden de kandidaten via de telefoon geïnformeerd feedback en de reden waarom ze wel of niet door zijn. Dit is op basis van de observaties en de competenties die  gedurende de dag tijdens de verschillende onderdelen zijn verzameld op een beoordelingsformulier.
 
 ### Focus Group
 De kandidaten voor de selectiedag gaan straks aan de slag als junior consultant. Junior consultants werken aan complexe problemen voor verschillende bedrijven. Ze analyseren business problemen en komen met effectieve oplossingen. Strategische en abstracte vraagstukken zet een consultant om in concrete acties en methodes. Bijvoorbeeld in de vorm van team meetings of trainingen / workshops. 
+
+*Bekijk hier een overzicht van een persona.*
 
 Tijdens de werving van kandidaten focussen ze zich vooral op een jongere generatie. De gemiddelde leeftijd van aankomende junior consultants ligt tussen de 23 - 30 jaar. Van net afgestudeerd (technische of economische opleiding bij voorkeur) tot 3 jaar werkervaring in het vakgebied.
 
@@ -77,6 +85,9 @@ Adobe Premiere Pro CC heeft nieuwe mogelijkheden om 360-video te bewerken en in 
 ## Onderzoek
 
 ## Conclusie
+De Escape Room is een aanvulling op de huidige cases die tijdens de junior caroussel worden behandeld. Het resultaat, na afloop van de caroussel, hangt niet volledig af van de prestaties tijdens gedurende de toepassing. Dit geldt grotendeels voor de 360-video's. De resultaten worden in eerste instantie altijd nog telefonisch naar de kandidaat gecommuniceerd. Helemaal als het een afwijzing betreft, vanuit ethisch perspectief is er gekozen om de afwijzing alleen telefonisch te houden.
+
+Binnen de context van &samhoud consultancy en de informele sfeer die gedurende de caroussel heerst past de WebVR toepassing prima bij de strategie om altijd te innoveren in recruitment waarbij 'usual unusual' voor &samhoud consultancy centraal staat. In een stricter solliciateproces kan ik me voorstellen dat het inzetten van een virtual reality toepassing ongepast kan zijn.
 
 ## Meta
 
