@@ -56,7 +56,7 @@ Tijdens de selectiedag is het natuurlijk ook van belang een bepaalde impressie /
 ### Low-cost hardware componenten
 Vooral de laatste paar jaren is er meer hardware om virtual reality te ervaren beschikbaar. Op basis van het huidige scenario en de omgeving van de selectiedag zijn er keuzes gemaakt in hardware componenten die voor deze specifieke situatie goed werken. Daarom maken we van maar een klein spectrum aan hardware componenten gebruik. 
 
-*[Technische termen en zijn opgenomen in een verklarende woordenlijst. →]()*
+*[Technische termen zijn opgenomen in een verklarende woordenlijst. →]()*
 
 Er is gekozen om de toepassing te optimaliseren voor low-cost components. Specifiek de zogeheten drop-in viewers (google cardboard is het bekendste voorbeeld) waarbij je de smartphone gebruikt als head-mounted display.
 
@@ -67,41 +67,70 @@ Er is gekozen om de toepassing te optimaliseren voor low-cost components. Specif
 * **Opstelling**  
   Duurdere hardware kits gaan vaak gepaard met kabels, al met al dus een langere opstarttijd. Drop-in viewers maken alleen gebruik van de smartphone van een kandidaat.
 
-Ook na de selectieprocedure op locatie willen we de cardboard gaan gebruiken voor een terugkoppeling, de kandidaten kunnen na afloop de drop-in viewer gemakkelijk meenemen. Aangezien we voornamelijk toetsen op communicatieve vaardigheden nemen we het feit dat low cost componenten geen controllers hebben voor input op de koop toe.
+Ook na de selectieprocedure op locatie gebruiken we de drop-in viewers voor een terugkoppeling, de kandidaten kunnen na afloop de drop-in viewers gemakkelijk meenemen.
 
 ### WebVR als techniek
-Vrijwel alle applicaties die draaien op dure hardware zijn zogeheten 'native' applicaties die specifiek voor een bepaald platform worden gemaakt. Naast een native applicatie is het mogelijk om een Virtual Reality applicatie te maken die draait in een browser. Het doel van WebVR is om het voor zowel ontwikkelaars als gebruikers toegankelijker (drempelvrij) te maken om Virtual Reality te ervaren. Ongeacht de devices en input die ze tot hun beschikking hebben.
+Vrijwel alle applicaties die draaien op dure hardware zijn zogeheten 'native' applicaties die specifiek voor een bepaald platform worden gemaakt. Naast een native applicatie is het mogelijk om een Virtual Reality applicatie te maken die draait in een browser. 
+
+*[Bekijk een inleidende video over WebVR →]()*
+
+> Het doel van **WebVR** is om het voor zowel **ontwikkelaars als gebruikers** toegankelijker (drempelvrij) te maken om Virtual Reality te ervaren. **Ongeacht de devices en input** die ze tot hun beschikking hebben.
 
 #### Ontwikkelaars
-
+Voor front-end developers is het een stuk toegankelijker om een toepassing in een browser te ontwikkelen.
+* **Huidige infrastructuur**  
+  Als developer kun je makkelijk gebruik maken van de infrastructuur die het web te bieden heeft. Specifieke open-source tools en frameworks waar we op kunnen voortborduren. Daarnaast kan een developer gebruikmaken van de kennis van huidige programmeertalen in plaats van het aanleren van nieuwe syntax.
+* **Livegang**  
+  De toepassing kan constant worden geüpdate (continuous integration) op dezelfde URL. Daarnaast hoef je de applicatie niet te distribueren door een App Store.
+* **Cross-platform**  
+  Een browser werkt op meerdere platformen waardoor een ontwikkelaar nieft specifiek voor een bepaald hardware of operating system hoeft te ontwikkelen. De applicatie draait in een browser.
 
 #### Gebruikers
+Ook is het voor gebruikers een stuk toegankelijk om virtual reality te ervaren.
+* **Opstarttijd**  
+  Voor aanvang hoeft er geen applicatie geïnstalleerd te worden. Het opstarten van een toepassing kan simpelweg door naar een URL in de browser te gaan.
+* **Kosten**  
+  Een gebruiker kan in veel gevallen met bestaande hardware (smartphone) vr ervaren en hoeft voor een basis ervaring geen dure hardware kits (oculus) aan te schaffen.
+* **Cross-plaform**  
+  Hier geldt dus ook weer, door het gebruik van een browser wordt met één toepassing voor zowel Android als iOS ondersteund.
 
 ## Prototypes
-Het uitwerken van de prototypes is vooral technisch van aard. In een vrij vroeg stadium heb ik aangegeven dat ik alle prototypes publiekelijk (open-source) wou ontwikkelen. De broncode en documentatie is voor iedereen inzichtelijk. Deze manier van werken zorgt ervoor dat ik snel iteraties en feedback kan vergaren
+Het uitwerken van de prototypes is vooral technisch van aard. In een vrij vroeg stadium heb ik aangegeven dat ik alle prototypes publiekelijk (open-source) wou ontwikkelen. 
+
+*[Meer over eigendom en open-source werken →]()*
+
+Zo is de broncode en documentatie voor iedereen inzichtelijk. Deze manier van werken zorgt ervoor dat ik snel iteratief kan werken en gemakkelijk feedback kan vergaren van andere ontwikkelaars.
 
 ### Escape Room
-Het scenario is relatief simpel. Tijdens de selectiedag betreden de kandidaten een ruimte zonder enige vorm van instructie. Voor hun ligt een houten kist met een cijferslot en een viertal drop-in viewers. Ze werken aan het gezamenlijke doel om de houten kist open te krijgen.   De kandidaten kunnen niet in elkaars kamer kijken en mogen de VR bril niet afzetten tijdens hun sessie waardoor ze alleen met spraak met elkaar kunnen communiceren.
+Het scenario is relatief simpel. Tijdens de selectiedag betreden de kandidaten een ruimte zonder enige vorm van instructie. Voor hun ligt een houten kist met een cijferslot en een viertal drop-in viewers. Ze werken aan het gezamenlijke doel om de houten  (in de 'echte wereld') open te krijgen. De kandidaten kunnen niet in elkaars kamer kijken en mogen de head-mounted display niet afzetten tijdens hun sessie waardoor ze alleen met spraak met elkaar kunnen communiceren.
 
-Voor de technische uitwerking Zoals eerder benoemd maak ik bijna uitsluitend gebruik van A-Frame. Voor het registeren van componenten heb ik in eerste instantie een bolierplate opgezet die de applicatie met Webpack bundled.
+### Onderzoek
+
+### Testing
+
+### Techniek
 
 ### 360-video
 De drop-in viewers die tijdens de junior caroussel gebruikt worden nemen de kandidaten na afloop mee. Via een link krijgen ze na afloop een 360-video met een persoonlijke boodschap van Salem Samhoud, oprichter van de &samhoud groep.
 
-De video is opgenomen met een Insta 360 camera, een relatief simpele camera waarbij het opnemen vrij gemakkelijk gaat. 'Point and shoot' kwam goed uit bij de geringe tijd die we beschikbaar hadden.
+De video is opgenomen met een Insta 360 camera, een relatief simpele camera waarbij het opnemen vrij gemakkelijk gaat. Door de geringe tijd die er met Salem beschikbaar was is er gekozen voor een 'Point and shoot' camera die met een smartphone te bedienen is, ten opzichte van duurdere video rigs.
 
+Voor aanvang hebben we kort wat 'location scouting' gedaan. De mondelinge boodschap is bij de video het belangrijkst, de setting en locatie (in het &moshik restaurant) zijn bewust gekozen om afleiding te minimaliseren. Vandaar dat Salem stil aan tafel zit in plaats van meer dynamiek door bijvoorbeeld rondlopen door de ruimte. Hetzelfde gaat op voor audio, vaak maken 360-video's gebruik van spacial audio. Bij de uiteindelijke video's zijn de audio levels constant, ongeacht of je je hoofd draait de het volume blijft hetzelfde.
+
+### Onderzoek
+Gedurende en voorafgaand aan de opname zijn er een aantal 'best practices' naar voren gekomen:
+* **Afstand**  
+  De positie van de camera zijn de ogen van de kijker. Om meer intemiteit en focus te creeéren zit Salem dicht op de camera. Daarnaast kijkt Salem direct in de camera om de gebruiker te erkennen.
+* **Positie**  
+  Het stabilizeren van de camera en op de juiste horizon lijn plaatsen minimaliseert Motion Sickness.
+
+### Testing
+Het kost tijd om een gebruiker zich comfortabel te laten voelen. In de eerste versie begon de video gelijk met afspelen waardoor er te weinig tijd was om de smartphone in de drop-in viewer te stoppen. Door een intro en countdown te introduceren krijgt de kijker meer feedback en tijd over de begin van het video.
+
+
+
+### Techniek
 Adobe Premiere Pro CC heeft nieuwe mogelijkheden om 360-video te bewerken en in post-productie nog te schaven. Het syncen van de audio en het toevoegen van graphics (intro / outro) kan met deze tool prima.
-
-## Onderzoek
-
-Na een eerste versie klaar te hebben begon ik deze aan een aantal mensen voor te leggen. Op basis van mijn bevindingen heb ik in iteraties het prototype aangepast.
-
-Nadat er op de link werd geklikt begon de video automatisch met afspelen waardoor er veel te weinig tijd was voor iemand om de telefoon in de drop-in viewer te stoppen. Om dit af te vangen krijgt de gebruiker eerst een opstartscherm te zien met instructies.
-De notificatie dat de video met geluid bekeken moest worden was in de video zelf verwerkt, eigenlijk is het dan al te laat. Deze notificatie zit nu in het opstartscherm.
-Daarbij, in eerste instantie was de intro veel te kort waardoor iemand zich niet comfortabel voelde.
-Als iemand eenmaal de cardboard ophad, terwijl het intro nog aan het afspelen was, was het niet helemaal duidelijk wanneer de video ging afspelen. Door een 'progress bar' toe te voegen kreeg de gebruiker meer feedback.
-De stem van Salem was in sommige gevallen nog wat onduidelijk.
-
 
 ## Conclusie
 De Escape Room is een aanvulling op de huidige cases die tijdens de junior caroussel worden behandeld. Het resultaat, na afloop van de caroussel, hangt niet volledig af van de prestaties tijdens gedurende de toepassing. Dit geldt grotendeels voor de 360-video's. De resultaten worden in eerste instantie altijd nog telefonisch naar de kandidaat gecommuniceerd. Helemaal als het een afwijzing betreft, vanuit ethisch perspectief is er gekozen om de afwijzing alleen telefonisch te houden.
