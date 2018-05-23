@@ -4,9 +4,9 @@ layout: default
 
 ## Introductie
 
-De consultancy tak van &samhoud zoekt constant manieren om nieuwe technieken in te zetten tijdens het uitvoeren van hun consultancy taken. Vooral tijdens recruitment van nieuwe junior consultants zien ze veel mogelijkheden om op een meer interactieve en digitale manier het sollicatieproces te gaan voeren.
+De [consultancy][consultancy] tak van &samhoud zoekt constant manieren om nieuwe technieken in te zetten tijdens het uitvoeren van hun consultancy taken. Vooral tijdens recruitment van nieuwe [junior consultants][junior] zien ze veel mogelijkheden om op een meer interactieve en digitale manier het sollicatieproces te gaan voeren.
 
-*[Lees meer over de aanleiding van dit project →]()*
+*[Lees meer over de aanleiding van dit project →](https://productbiografie.dandevri.es/introduction/PROJECT.html)*
 
 Tijdens een selectiedag voeren de consultants een aantal cases uit, zowel individueel als in groepsverband. Aan de hand van deze cases wordt door observanten gemeten over welke communicatieve of analytische vaardigheden een kandidaat beschikt.
 
@@ -15,24 +15,26 @@ Tijdens een selectiedag voeren de consultants een aantal cases uit, zowel indivi
 
 Biedt een Virtual Reality toepassing in dit geval een meerwaarde in het recruitment process en wat zou deze toepassing moeten bieden om praktisch ingezet te worden?
 
-Met dit vraagstuk kwam &samhoud consultancy bij dochterbedrijf &samhoud media. Als creatief bureau, gespecialiseerd in augmented en virtual reality producties, zag &samhoud media kansen om deze cases met de mogelijkheden van Virtual Reality  een stuk interactiever te maken.
+*[Bekijk een diagram met alle stakeholders. →](https://productbiografie.dandevri.es/research/STAKEHOLDERS.html)*
+
+Met dit vraagstuk kwam &samhoud consultancy bij dochterbedrijf [&samhoud media][media]. Als creatief bureau, gespecialiseerd in augmented en virtual reality producties, zag &samhoud media kansen om deze cases met de mogelijkheden van Virtual Reality  een stuk interactiever te maken.
 
 ### Huidige situatie
 Tijdens een selectiedag (junior caroussel) voeren ongeveer 25 aankomende consultants een aantal cases uit. Een groot deel van de selectiedag is in groepsverband maar er zijn ook individuele momenten. 
 
-*[Lees meer over het scenario gedurende de selectiedag. →]()*
+*[Lees meer over het scenario gedurende de selectiedag. →](https://productbiografie.dandevri.es/research/SCENARIO.html)*
 
 Na afloop worden de kandidaten via de telefoon geïnformeerd feedback en de reden waarom ze wel of niet door zijn. Dit is op basis van de observaties en de competenties die  gedurende de dag tijdens de verschillende onderdelen zijn verzameld op een beoordelingsformulier.
 
 ### Focus Group
-De kandidaten voor de selectiedag gaan straks aan de slag als junior consultant. Junior consultants werken aan complexe problemen voor verschillende bedrijven. Ze analyseren business problemen en komen met effectieve oplossingen. Strategische en abstracte vraagstukken zet een consultant om in concrete acties en methodes. Bijvoorbeeld in de vorm van team meetings of trainingen / workshops. 
+De kandidaten voor de selectiedag gaan straks aan de slag als [junior consultant][profile]. Junior consultants werken aan complexe problemen voor verschillende bedrijven. Ze analyseren business problemen en komen met effectieve oplossingen. Strategische en abstracte vraagstukken zet een consultant om in concrete acties en methodes. Bijvoorbeeld in de vorm van team meetings of trainingen / workshops. 
 
-*[Bekijk hier het volledige persona. →]()*
+*[Bekijk hier het volledige persona. →](https://productbiografie.dandevri.es/research/FOCUS-GROUP.html)*
 
 Tijdens de werving van kandidaten focussen ze zich vooral op een jongere generatie. De gemiddelde leeftijd van aankomende junior consultants ligt tussen de 23 - 30 jaar. Van net afgestudeerd (technische of economische opleiding bij voorkeur) tot 3 jaar werkervaring in het vakgebied.
 
 ### Oplossing
-Door het ontwikkelen van Virtual Reality Escape Room, die gebruik maakt van een smartphone en zogeten drop-in viewers, is het voor de observanten van &samhoud consultancy op een meer speelse en interactievere manier mogelijk om de competenties van de kandidaten te meten. Na afloop van de selectiedag nemen de kandidaten de drop-in viewers mee en krijgen ze een persoonlijke uitnodiging voor een vervolggesprek van oprichter Salem Samhoud in de vorm van een 360-video. De focus van het project ligt vooral op het technisch uitwerken van de oplossing tot een high-fidelity prototype.
+Door het ontwikkelen van Virtual Reality Escape Room, die gebruik maakt van een smartphone en zogeten [drop-in viewers][cardboard], is het voor de observanten van &samhoud consultancy op een meer speelse en interactievere manier mogelijk om de competenties van de kandidaten te meten. Na afloop van de selectiedag nemen de kandidaten de drop-in viewers mee en krijgen ze een persoonlijke uitnodiging voor een vervolggesprek van oprichter [Salem Samhoud][salem] in de vorm van een 360-video. De focus van het project ligt vooral op het technisch uitwerken van de oplossing tot een high-fidelity prototype.
 
 ## Onderbouwing
 
@@ -53,9 +55,11 @@ Daarnaast is een credo van &samhoud 'usual unusual' ze proberen altijd net even 
 Tijdens de selectiedag is het natuurlijk ook van belang een bepaalde impressie / indruk achter te laten bij de kandidaten over de bedrijfsvoering van de consultancy tak. Kandidaten worden met een interactieve toepassing op een positieve manier verrast en maken kennis met de mogelijkheden van andere business lines binnen de &samhoud group.
 
 ### Low-cost hardware componenten
+*[Technische termen zijn opgenomen in een verklarende woordenlijst. →](https://productbiografie.dandevri.es/GLOSSARY.html)*
+
 Vooral de laatste paar jaren is er meer hardware om virtual reality te ervaren beschikbaar. Op basis van het huidige scenario en de omgeving van de selectiedag zijn er keuzes gemaakt in hardware componenten die voor deze specifieke situatie goed werken. Daarom maken we van maar een klein spectrum aan hardware componenten gebruik. 
 
-*[Technische termen zijn opgenomen in een verklarende woordenlijst. →]()*
+*[Lees in detail over hardware componenten →](https://productbiografie.dandevri.es/vr/HARDWARE.html)*
 
 Er is gekozen om de toepassing te optimaliseren voor low-cost components. Specifiek de zogeheten drop-in viewers (google cardboard is het bekendste voorbeeld) waarbij je de smartphone gebruikt als head-mounted display.
 
@@ -71,7 +75,7 @@ Ook na de selectieprocedure op locatie gebruiken we de drop-in viewers voor een 
 ### WebVR als techniek
 Vrijwel alle applicaties die draaien op dure hardware zijn zogeheten 'native' applicaties die specifiek voor een bepaald platform worden gemaakt. Naast een native applicatie is het mogelijk om een Virtual Reality applicatie te maken die draait in een browser. 
 
-*[Bekijk een inleidende video over WebVR →]()*
+*[Bekijk een inleidende video over WebVR →](https://www.youtube.com/watch?v=Jzrqrji_2xk)*
 
 > Het doel van **WebVR** is om het voor zowel **ontwikkelaars als gebruikers** toegankelijker (drempelvrij) te maken om Virtual Reality te ervaren. **Ongeacht de devices en input** die ze tot hun beschikking hebben.
 
@@ -94,9 +98,9 @@ Ook is het voor gebruikers een stuk toegankelijk om virtual reality te ervaren.
   Hier geldt dus ook weer, door het gebruik van een browser wordt met één toepassing voor zowel Android als iOS ondersteund.
 
 ## Prototypes
-Het uitwerken van de prototypes is vooral technisch van aard. In een vrij vroeg stadium heb ik aangegeven dat ik alle prototypes publiekelijk (open-source) wou ontwikkelen. Vrijwel vanaf het begin heb ik toestemming gekregen om een GitHub organisatie aan te maken, een pagina waarin alle broncode van de prototypes te vinden zijn.
+Het uitwerken van de prototypes is vooral technisch van aard. In een vrij vroeg stadium heb ik aangegeven dat ik alle prototypes publiekelijk (open-source) wou ontwikkelen. Vrijwel vanaf het begin heb ik toestemming gekregen om een [GitHub organisatie][github] aan te maken, een pagina waarin alle broncode van de prototypes te vinden zijn.
 
-*[Meer over eigendom en open-source werken →]()*
+*[Meer over eigendom en open-source werken →](https://productbiografie.dandevri.es/misc/LICENSING.html)*
 
 Zo is de broncode en documentatie voor iedereen inzichtelijk. Deze manier van werken zorgt ervoor dat ik snel iteratief kan werken en gemakkelijk feedback kan vergaren van andere ontwikkelaars.
 
@@ -109,17 +113,17 @@ Doordat we werken met drop-in viewers zijn er limitaties qua interactie mogelijk
 De Escape Room is een virtuele omgeving, veel van het ontwerp is in de vorm van 3d-modellen. Dit is echt een vak apart en vooral tijdrovend om elk model afzonderlijk te maken. Aangezien dit niet direct binnen de competenties van de opleiding valt heb ik vooral bestaande modellen gebruikt.
 
 ### Testing
-Na het prototype te hebben voorgelegd aan de opdrachtgever was een van de vragen hoe deze applicatie nou gemakkelijk opgestart kon worden. Met verschillende telefoons handmatig URL's invoeren kan maar is niet de meest efficiente manier. Het was voor de observanten van &samhoud dus belangrijk dat de cases vanuit een centrale plek opgestart konden worden. Hiervoor heb ik een centrale toolkit (website) gemaakt vanwaar alle puzzels opgestart kunnen worden.
+Na het prototype te hebben voorgelegd aan de opdrachtgever was een van de vragen hoe deze applicatie nou gemakkelijk opgestart kon worden. Met verschillende telefoons handmatig URL's invoeren kan maar is niet de meest efficiente manier. Het was voor de observanten van &samhoud dus belangrijk dat de cases vanuit een centrale plek opgestart konden worden. Hiervoor heb ik een centrale toolkit (website) gemaakt vanwaar alle cases opgestart kunnen worden.
 
 ### Techniek
-Zoals eerder benoemd maak ik bijna uitsluitend gebruik van A-Frame. Voor het registeren van componenten heb ik in eerste instantie een bolierplate opgezet die de applicatie met Webpack bundled. Voor het downloaden van 3D-modellen gebruik ik voornamelijk andere bronnen; Google Low Poly of Sketchfab.
+Zoals eerder benoemd maak ik bijna uitsluitend gebruik van [A-Frame][frame]. *[Bekijk de volledige Tech Stack →](https://productbiografie.dandevri.es/prototyping/SHOWCASE.html)* Voor het registeren van componenten heb ik in eerste instantie een bolierplate opgezet die de applicatie met [Webpack][webpack] bundled. Voor het downloaden van 3D-modellen gebruik ik voornamelijk andere bronnen; [Google Low Poly][poly] of [Sketchfab][sketchfab].
 
 ### 360-video
 De drop-in viewers die tijdens de junior caroussel gebruikt worden nemen de kandidaten na afloop mee. Via een link krijgen ze na afloop een 360-video met een persoonlijke boodschap van Salem Samhoud, oprichter van de &samhoud groep.
 
-De video is opgenomen met een Insta 360 camera, een relatief simpele camera waarbij het opnemen vrij gemakkelijk gaat. Door de geringe tijd die er met Salem beschikbaar was is er gekozen voor een 'Point and shoot' camera die met een smartphone te bedienen is, ten opzichte van duurdere video rigs.
+De video is opgenomen met een [Insta 360][insta] camera, een relatief simpele camera waarbij het opnemen vrij gemakkelijk gaat. Door de geringe tijd die er met Salem beschikbaar was is er gekozen voor een 'Point and shoot' camera die met een smartphone te bedienen is, ten opzichte van duurdere video rigs.
 
-Voor aanvang hebben we kort wat 'location scouting' gedaan. De mondelinge boodschap is bij de video het belangrijkst, de setting en locatie (in het &moshik restaurant) zijn bewust gekozen om afleiding te minimaliseren. Vandaar dat Salem stil aan tafel zit in plaats van meer dynamiek door bijvoorbeeld rondlopen door de ruimte. Hetzelfde gaat op voor audio, vaak maken 360-video's gebruik van spacial audio. Bij de uiteindelijke video's zijn de audio levels constant, ongeacht of je je hoofd draait de het volume blijft hetzelfde.
+Voor aanvang is er kort wat 'location scouting' gedaan. De mondelinge boodschap is bij de video het belangrijkst, de setting en locatie (in het [&moshik][moshik] restaurant) zijn bewust gekozen om afleiding te minimaliseren. Vandaar dat Salem stil aan tafel zit in plaats van meer dynamiek door bijvoorbeeld rondlopen door de ruimte. Hetzelfde gaat op voor audio, vaak maken 360-video's gebruik van spacial audio. Bij de uiteindelijke video's zijn de audio levels constant, ongeacht of je je hoofd draait de het volume blijft hetzelfde.
 
 ### Onderzoek
 Gedurende het testen met de camera en voorafgaand aan de opname zijn er een aantal 'best practices' naar voren gekomen:
@@ -135,14 +139,15 @@ Het kost tijd om een gebruiker zich comfortabel te laten voelen. In de eerste ve
 Daarnaast zat in eerste instantie de melding over audio in de video verwerkt, op dat moment is het al te laat. De video is al begonnen met afspelen. Door deze melding te verplaatsen naar een opstartscherm heeft de gebruiker van tevoren tijd om oortjes te pakken of het volume van de speaker te verhogen.
 
 ### Techniek
-Adobe Premiere Pro CC heeft nieuwe mogelijkheden om 360-video te bewerken en in post-productie nog te schaven. Het syncen van de audio en het toevoegen van graphics (intro / outro) kan met deze tool prima. Om de het 360-video formaat af te kunnen spelen in de browser maak ik gebruik van A-Frame in combinatie met een aantal custom componenten.
+[Adobe Premiere Pro CC][premiere] heeft nieuwe mogelijkheden om 360-video te bewerken en in post-productie nog te schaven. 
+*[Bekijk de volledige Tech Stack →](https://productbiografie.dandevri.es/prototyping/VIDEO.html)* Het syncen van de audio en het toevoegen van graphics (intro / outro) kan met deze tool prima. Om de het 360-video formaat af te kunnen spelen in de browser maak ik gebruik van A-Frame in combinatie met een aantal custom componenten.
 
 Browsers blokkeren het automatisch afspelen van video's op een smartphone (en binnenkort ook op Desktop). Er is een user-gesture nodig, door het klikken van de knop op het opstartscherm begint de video met afspelen.
 
 ## Conclusie
 De Escape Room is een aanvulling op de huidige cases die tijdens de junior caroussel worden behandeld. Het resultaat, na afloop van de caroussel, hangt niet volledig af van de prestaties tijdens gedurende de toepassing. Dit geldt grotendeels voor de 360-video's. De resultaten worden in eerste instantie altijd nog telefonisch naar de kandidaat gecommuniceerd. Helemaal als het een afwijzing betreft, vanuit ethisch perspectief is er gekozen om de afwijzing alleen telefonisch te houden.
 
-*[Lees de reflectie over het verloop van het project. →]()*
+*[Lees de reflectie over het verloop van het project. →](https://productbiografie.dandevri.es/reflection/REFLECTION.html)*
 
 Binnen de context van &samhoud consultancy en de informele sfeer die gedurende de caroussel heerst past de WebVR toepassing prima bij de strategie om altijd te innoveren in recruitment waarbij 'usual unusual' voor &samhoud consultancy centraal staat. In een stricter solliciateproces kan ik me voorstellen dat het inzetten van een virtual reality toepassing ongepast kan zijn.
 
@@ -150,7 +155,7 @@ Doordat alle prototypes publiekelijk beschikbaar zijn is het gemakkelijk om verd
 
 De grootste limitatie (althans, dit is een bewuste keuze geweest) is de beperkte input van bijvoorbeeld game controllers. Hierdoor valt een hoop interactie weg. Vanuit technisch perspectief was het interessant geweest om te kijken hoe de huidige versies met de mogelijkheden van controllers enhanced kunnen worden waardoor er meer interactie met objecten ontstaat.
 
-Daarnaast heeft de Escape Room nu maar één mogelijke uitkomst. Vanuit technisch perspectief was het ook interessant geweest om te kijken of bepaalde hints bijvoorbeeld random genereerd hadden kunnen worden. Of in het gekste geval bijvoorbeeld met machine learning (Tensorflow) door objecten of avatars bepaalde interactie te geven.
+Daarnaast heeft de Escape Room nu maar één mogelijke uitkomst. Vanuit technisch perspectief was het ook interessant geweest om te kijken of bepaalde hints bijvoorbeeld random genereerd hadden kunnen worden. Of in het gekste geval bijvoorbeeld met [machine learning][tensorflow] door objecten of avatars bepaalde interactie te geven.
 
 ## Meta
 
@@ -166,7 +171,7 @@ Daarnaast heeft de Escape Room nu maar één mogelijke uitkomst. Vanuit technisc
 * Oosterdokskade 5
 * 1011 AD Amsterdam
 * +316 27 00 69 16
-* [www.samhoudmedia.com](https://samhoudmedia.com)
+* www.samhoudmedia.com
 
 #### Contactgegevens Begeleider:
 * Tijmen van Rooijen
@@ -180,4 +185,20 @@ Daarnaast heeft de Escape Room nu maar één mogelijke uitkomst. Vanuit technisc
 #### Contactgegevens Student:
 * Danny de Vries
 * 06 – 41025262
-* <hi@dandevri.es>
+* hi@dandevri.es
+
+[consultancy]: http://consultancy.samhoud.com/en/home
+[junior]: http://consultancy.samhoud.com/en/expertise
+[media]: https://www.samhoudmedia.com/
+[profile]: https://career.samhoud.com/apply?junior-consultant-101367
+[salem]: http://consultancy.samhoud.com/en/person/salem-samhoud
+[cardboard]: https://vr.google.com/cardboard/
+[github]: https://github.com/samhoudmedia
+[frame]: https://aframe.io/
+[poly]: https://poly.google.com/
+[sketchfab]: https://sketchfab.com/
+[insta]: https://www.insta360.com/
+[moshik]: https://moshikrestaurant.com/
+[premiere]: https://www.adobe.com/products/premiere.html
+[webpack]: https://webpack.js.org/
+[tensorflow]: https://www.tensorflow.org/
