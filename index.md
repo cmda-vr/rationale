@@ -199,7 +199,7 @@ Daarnaast heeft de Escape Room nu maar één mogelijke uitkomst. Vanuit technisc
 **Opleiding:** Communication and Multimedia Design  
 **Onderwijsinstelling:** Hogeschool van Amsterdam  
 **Startdatum:** 04.02.2018  
-**Eindatum:** 29.06.2018  
+**Eindatum:** 08.06.2018  
 
 #### Contactgegevens Bedrijf:
 * &Samhoud media
