@@ -4,51 +4,69 @@ layout: default
 
 ## Introductie
 
-De [consultancy][consultancy] tak van &samhoud zoekt constant manieren om nieuwe technieken in te zetten tijdens het uitvoeren van hun consultancy taken. Vooral tijdens recruitment van nieuwe [junior consultants][junior] zien ze veel mogelijkheden om op een meer interactieve en digitale manier het sollicitatieproces te gaan voeren.
+De [consultancy](consultancy.samhoud.com/) tak van [&samhoud](http://www.samhoud.com/) zoekt constant manieren om nieuwe technieken in te zetten tijdens het uitvoeren van hun consultancy taken. Vooral bij recruitment van nieuwe [junior consultants](https://career.samhoud.com/apply?junior-consultant-101367) zien ze veel mogelijkheden om op een meer interactieve en digitale manier het sollicitatieproces te gaan voeren.
 
 *[Lees meer over de aanleiding van dit project →](https://productbiografie.dandevri.es/introduction/PROJECT.html)*
 
-Tijdens een selectiedag voeren de consultants een aantal cases uit, zowel individueel als in groepsverband. Aan de hand van deze cases wordt door observanten gemeten over welke communicatieve of analytische vaardigheden een kandidaat beschikt.
+Tijdens de [selectiedag](https://productbiografie.dandevri.es/research/SCENARIO.html) voor junior consultants worden een aantal cases uitgevoerd die, tot dusver, ‘ouderwets’ op papier werden behandeld. Doormiddel van mijn onderzoek naar [WebVR](https://productbiografie.dandevri.es/vr/TECH.html) en het prototypen van verschillende oplossingrichtingen heb ik een aantal Virtual Reality puzzels gemaakt die als aanvulling kunnen dienen ten opzichte van de huidige cases.
 
-Doormiddel van een Virtual Reality toepassing heb ik een aanvulling op deze cases gemaakt om ze op deze manier een stuk interactiever te maken.
+Als oplossing ontwikkel ik een website die dient als [toolkit](https://productbiografie.dandevri.es/prototyping/TOOLKIT.html). Via de toolkit kunnen de observanten verschillende [WebVR puzzels](https://productbiografie.dandevri.es/concepting/IDEAS.html) opstarten die ze kunnen inzetten tijdens de selectiedag.
 
 ![Kantoor](/img/kantoor.jpg)
 
 ## Ontwerpvraag
 > Hoe kan een **Web Virtual Reality toepassing** tijdens de **interne selectiedag** van **&samhoud consultancy** de huidige cases aanvullen en interactiever maken zodat **de competenties van aankomende junior consultants** beter te meten zijn?
 
+*[Bekijk een overzicht van alle onderzoeksvragen. →](https://productbiografie.dandevri.es/research/DESIGN-CHALLENGE.html)*
+
 Biedt een Virtual Reality toepassing in dit geval een meerwaarde in het recruitment process en wat zou deze toepassing moeten bieden om praktisch ingezet te worden?
 
 *[Bekijk een diagram met alle stakeholders. →](https://productbiografie.dandevri.es/research/STAKEHOLDERS.html)*
 
-Met dit vraagstuk kwam &samhoud consultancy bij dochterbedrijf [&samhoud media][media]. Als creatief bureau, gespecialiseerd in augmented en virtual reality producties, zag &samhoud media kansen om deze cases met de mogelijkheden van Virtual Reality  een stuk interactiever te maken.
+Met dit vraagstuk kwam &samhoud consultancy bij dochterbedrijf [&samhoud media][media]. Als creatief bureau, gespecialiseerd in [augmented en virtual reality producties](https://samhoudmedia.com/cases), zag &samhoud media kansen om deze cases met de mogelijkheden van Virtual Reality  een stuk interactiever te maken.
+
+### Probleemsituatie
+Bij de huidige cases op papier ligt de nadruk op het oplossen van een vakinhoudelijke business case. Bijvoorbeed, ‘hier zie je de weekstart van bedrijf X, analyseer de data en pitch een passende oplossing.’ Dit soort cases werken goed om bij een kandidaat te meten of deze structuur aanbrengt door op juiste wijze **projectmanagement** toe te passen of bijvoorbeeld denkt vanuit het perspectief van de klant, **klantgerichtheid**.
+
+Het probleem bij deze vorm is dat voornamelijk de competenties: **communicatief**, **analytisch** en **samenwerken** door de observanten moeilijk meetbaar zijn. Communicatie en samenwerken zijn, uit ervaring van de observanten, alleen goed te meten in groepsverband terwijl de huidige cases zich vooral focussen op de kandidaat als individu.
 
 ### Huidige situatie
-Tijdens een selectiedag (junior caroussel) voeren ongeveer 25 aankomende consultants een aantal cases uit. Een groot deel van de selectiedag is in groepsverband maar er zijn ook individuele momenten. 
+Voor een selectiedag (junior caroussel) worden tussen de 25 á 30 kandidaten uitgenodigd. Na een vooral [informatieve ochtend](https://productbiografie.dandevri.es/research/SCENARIO.html) (met presentaties over de bedrijfsvoering) werken de kandidaten aan een aantal business cases. De kandidaten staan gedurende de dag constant met elkaar in contact. Een groot deel van de selectiedag is in groepsverband maar er zijn ook individuele momenten. Aan de hand van een rooster weten de kandidaten waar ze moeten zijn en wat de tijdsindeling van de dag is, zo bleek uit [interviews met kandidaten](https://productbiografie.dandevri.es/deliverables/INTERVIEW.html).
 
 *[Lees meer over het scenario gedurende de selectiedag. →](https://productbiografie.dandevri.es/research/SCENARIO.html)*
 
-Na afloop worden de kandidaten via de telefoon geïnformeerd met de reden waarom ze wel of niet door zijn. Dit is op basis van de observaties en de competenties die  gedurende de dag tijdens de verschillende onderdelen zijn verzameld op een beoordelingsformulier.
+Na afloop worden de kandidaten via de telefoon geïnformeerd waarom ze wel of niet door zijn. Dit is op basis van de observaties en de competenties die  gedurende de dag tijdens de verschillende onderdelen zijn verzameld op een beoordelingsformulier.
+
+Als uit de selectiedag blijkt dat je geschikt bent wordt je voor een laatste gesprek uitgenodigd. Dit gesprek is met de oprichters van &samhoud, op basis hiervan kan je alsnog worden afgewezen.
 
 ![Scenario](/img/scenario.jpg)
 
 ### Situatieschets
-De selectiedagen zijn niet erg frequent, en daarbij kwam nog eens dat in verband met de privacy van de kandidaten het voor mij lastig om er daadwerkelijk één bij te wonen. Toch heb ik gedurende m'n project met meerdere kandidaten kunnen spreken. Zowel consultants die nog niet lang bij het bedrijf werken als kandidaten die zijn afgewezen om een goede impressie van de selectiedag te kunnen krijgen.
-* De selectiedag is voor veel kandidaten een bevestiging dat &samhoud een bedrijf is waar ze voor willen werken. De gehele sfeer en de visie die ze verkondigen is erg informeel.
-* Omdat ze veel bij elkaar zijn tijdens de procedure let een kandidaat veel op wat anderen aan het doen zijn. Er heerst onzekerheid over de persoonlijke aanpak.
-* De kandidaten zijn voor aanvang over het algemeen vrij zenuwachtig, van tevoren worden er weinig instructies gegeven en ook tijdens de uitleg van de cases wordt er bewust wat verwarring geschept.
+De selectiedagen zijn niet erg frequent, daarbij kwam nog eens dat in verband met de privacy van de kandidaten het voor mij lastig was om een selectieag bij te wonen. Toch heb ik gedurende m'n project met meerdere kandidaten kunnen spreken. Zowel consultants die nog niet lang bij het bedrijf werken als kandidaten die zijn afgewezen. Zo kon ik alsnog een goede impressie van de selectiedag krijgen.
+
+* De selectiedag is voor veel kandidaten een bevestiging dat &samhoud een bedrijf is waar ze voor willen werken. De gehele sfeer die ze verkondigen is erg informeel.
+* Omdat kandidaten veel met elkaar zijn tijdens de procedure let je veel op wat anderen aan het doen zijn. Onzekerheid over je eigen aanpak.
+* De meeste kandidaten zijn zenuwachtig, omdat er van tevoren weinig instructies worden gegeven en ook tijdens de uitleg van de cases wordt er door de recruiters bewust verwarring geschept.
 
 ### Focus Group
-De kandidaten voor de selectiedag gaan straks aan de slag als [junior consultant][profile]. Junior consultants werken aan complexe problemen voor verschillende bedrijven. Ze analyseren business problemen en komen met effectieve oplossingen. Strategische en abstracte vraagstukken zet een consultant om in concrete acties en methodes. Bijvoorbeeld in de vorm van team building, trainingen of workshops. 
+De kandidaten voor de selectiedag gaan straks aan de slag als [junior consultant][profile]. Junior Consultants analyseren business problemen en ontwikkelen effectieve oplossingen. Strategische en abstracte vraagstukken zet een consultant om in concrete acties en methodes, bijvoorbeeld in de vorm van team meetings, trainingen of workshops.
 
 *[Bekijk hier het volledige persona. →](https://productbiografie.dandevri.es/research/FOCUS-GROUP.html)*
 
-Tijdens de werving van kandidaten focussen ze zich vooral op een jongere generatie. De gemiddelde leeftijd van aankomende junior consultants ligt tussen de 23 - 30 jaar. Van net afgestudeerd (technische of economische opleiding bij voorkeur) tot 3 jaar werkervaring in het vakgebied.
+Tijdens de werving van kandidaten focussen de recuiters zich vooral op een jongere generatie. De gemiddelde leeftijd van aankomende junior consultants ligt tussen de 23 - 30 jaar. Van net afgestudeerd  (technische of economische opleiding bij voorkeur) tot 3 jaar werkervaring in het vakgebied ([Sascha Vloet, Interview](https://www.linkedin.com/in/saschavloet/?locale=nl_NL)).
+
+De recuiters van &samhoud vragen van junior consultants vooral communicatieve, creatieve en analytische vaardigheden ([Vacature, &samhoud consultancy](https://career.samhoud.com/apply?junior-consultant-101367)). De primaire doelgroep tijdens dit project zijn de recruiters (observanten) van &samhoud consultancy. De eindgebruikers van het project zijn de kandidaten van de selectiedag.
 
 ### Oplossing
-Door het ontwikkelen van een Virtual Reality Escape Room, die gebruik maakt van een smartphone en zogeten [drop-in viewers][cardboard], is het voor de observanten van &samhoud consultancy op een meer speelse en interactievere manier mogelijk om de competenties van de kandidaten te meten. Na afloop van de selectiedag nemen de kandidaten de drop-in viewers mee en krijgen ze een persoonlijke uitnodiging voor een vervolggesprek van oprichter [Salem Samhoud][salem] in de vorm van een 360-video. 
+Als oplossing ontwikkel ik een website die dient als [Toolkit](https://productbiografie.dandevri.es/prototyping/TOOLKIT.html). In de toolkit zitten een aantal versimpelde cases op basis van verschillende Virtual Reality Puzzle games. De puzzels zijn ontworpen voor [drop-in viewers](https://vr.google.com/cardboard/) waarbij de smartphone gebruikt wordt als head-mounted display, zogeheten [low-cost hardware componenten](https://productbiografie.dandevri.es/vr/HARDWARE.html). *[Lees meer over de soorten hardware. →](https://productbiografie.dandevri.es/research/FOCUS-GROUP.html)* Via de toolkit kunnen de observanten gemakkelijk via een centrale plek de verschillende [WebVR puzzels](https://productbiografie.dandevri.es/concepting/IDEAS.html) opstarten om deze tijdens de selectiedag in te zetten.
 
-Voor aanvang van het project ligt de focus grotendeels op het technisch uitwerken van het prototype. Al is het vakgebied van VR op veel vlakken nog een 'jungle' waardoor er weinig goed gedocumenteerd staat en literatuur niet in overvloed beschikbaar is. Naast het technisch uitwerken is het onderzoek naar interactiepatronen binnen VR en het vakgbied in z'n geheel ook iets waar veel tijd in is gaan zitten.
+Om de kandidaten meer in groepsverband een case te laten oplossen is er in een later stadium gekozen om de sterke aspecten van alle puzzels samen te voegen tot een (virtuele) [Escape Room](https://productbiografie.dandevri.es/prototyping/TOOLKIT.html). Vanwege tijdsgebrek heb ik hier alleen een eerste opzet van kunnen maken. 
+
+Na afloop van de selectiedag nemen de kandidaten de drop-in viewers mee en krijgen ze een persoonlijke uitnodiging voor een vervolggesprek van oprichter [Salem Samhoud][salem] in de vorm van een [360-video](https://productbiografie.dandevri.es/prototyping/VIDEO.html). 
+
+### Profilering
+
+Voor aanvang van het project ligt mijn focus grotendeels op het doen van onderzoek naar het vakgebied en eventueel al het uitwerken van een aantal prototypes. Het vakgebied van VR is op veel vlakken nog een [‘jungle’](https://blog.mozvr.com/the-design-of-firefox-reality/) waardoor er weinig gedocumenteerd staat en voor mij makkelijk leesbare literatuur niet makkelijk via zoekmachines en databanken vindbaar is. Later in het project wil ik me meer richten op het hands-on technisch uitwerken van concepten om die tot een minimum viable product (MVP) uit te werken.
 
 ## Onderbouwing
 
