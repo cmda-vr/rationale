@@ -62,28 +62,32 @@ De recuiters van &samhoud vragen van junior consultants vooral communicatieve, c
 ### Oplossing
 Als oplossing ontwikkel ik een website die dient als [Toolkit](https://productbiografie.dandevri.es/prototyping/TOOLKIT.html). In de toolkit zitten een aantal versimpelde cases op basis van verschillende Virtual Reality Puzzle games. De puzzels zijn ontworpen voor [drop-in viewers](https://vr.google.com/cardboard/) waarbij de smartphone gebruikt wordt als head-mounted display, zogeheten [low-cost hardware componenten](https://productbiografie.dandevri.es/vr/HARDWARE.html). *[Lees meer over de soorten hardware. →](https://productbiografie.dandevri.es/research/FOCUS-GROUP.html)* Via de toolkit kunnen de observanten gemakkelijk via een centrale plek de verschillende [WebVR puzzels](https://productbiografie.dandevri.es/concepting/IDEAS.html) opstarten om deze tijdens de selectiedag in te zetten.
 
+*[Bekijk de verschillende concepten en ideeën →](https://productbiografie.dandevri.es/introduction/PROJECT.html)*
+
 Om de kandidaten meer in groepsverband een case te laten oplossen is er in een later stadium gekozen om de sterke aspecten van alle puzzels samen te voegen tot een (virtuele) [Escape Room](https://productbiografie.dandevri.es/prototyping/TOOLKIT.html). Vanwege tijdsgebrek heb ik hier alleen een eerste opzet van kunnen maken. 
+
+*[Bekijk een overzicht van de requirements en features →](https://productbiografie.dandevri.es/introduction/PROJECT.html)*
 
 Na afloop van de selectiedag nemen de kandidaten de drop-in viewers mee en krijgen ze een persoonlijke uitnodiging voor een vervolggesprek van oprichter [Salem Samhoud][salem] in de vorm van een [360-video](https://productbiografie.dandevri.es/prototyping/VIDEO.html). 
 
 ### Profilering
 
-Voor aanvang van het project ligt mijn focus grotendeels op het doen van onderzoek naar het vakgebied en eventueel al het uitwerken van een aantal prototypes. Het vakgebied van VR is op veel vlakken nog een [‘jungle’](https://blog.mozvr.com/the-design-of-firefox-reality/) waardoor er weinig gedocumenteerd staat en voor mij makkelijk leesbare literatuur niet makkelijk via zoekmachines en databanken vindbaar is. Later in het project wil ik me meer richten op het hands-on technisch uitwerken van concepten om die tot een minimum viable product (MVP) uit te werken.
+Voor aanvang van het project ligt mijn focus grotendeels op het doen van [onderzoek naar het vakgebied](https://productbiografie.dandevri.es/vr/VR-OVERVIEW.html) en eventueel al het uitwerken van een aantal prototypes. Het vakgebied van VR is op veel vlakken nog een [‘jungle’](https://blog.mozvr.com/the-design-of-firefox-reality/) waardoor er weinig gedocumenteerd staat en voor mij makkelijk leesbare literatuur niet makkelijk via zoekmachines en databanken vindbaar is. Later in het project wil ik me meer richten op het hands-on technisch uitwerken van concepten om die tot een minimum viable product (MVP) uit te werken.
 
 ## Onderbouwing
 
 ### De meerwaarde van Virual Reality
 
 #### User Engagement
-Een Virtual Reality toepassing vergroot over het algemeen de **user engagement**. Doordat de cases een stuk interactiever en visueler zijn gaan mensen eerder op in de ervaring. In de wereld van Virtual Reality wordt dit onderscheden met twee termen ‘Immersie’ ([Frederick P. Brooks](https://www.cs.unc.edu/~brooks/WhatsReal.pdf)) en ‘presence’ ([Valve, Michael Abrash](http://media.steampowered.com/apps/abrashblog/Abrash%20Dev%20Days%202014.pdf)). 
+Een Virtual Reality toepassing vergroot over het algemeen de **user engagement**. Doordat de cases interactiever en visueler zijn gaan mensen eerder op in de ervaring. In de wereld van Virtual Reality wordt dit onderscheden met twee termen ‘Immersie’ ([Frederick P. Brooks](https://www.cs.unc.edu/~brooks/WhatsReal.pdf)) en ‘presence’ ([Valve, Michael Abrash](http://media.steampowered.com/apps/abrashblog/Abrash%20Dev%20Days%202014.pdf)). 
 
 Een digitale case kan de volgende vormen van immersie vergroten:
 * tactische immersie (Ernest W. Adams): wanneer een speler tactische operaties uitvoert die een zekere vaardigheid vergen.
 * ruimtelijke immersie (Staffan Bjork): spatiale of ruimtelijke immersie doet zich voor wanneer een speler de gesimuleerde ruimte als perceptueel overtuigend ervaart.
 
-Daarnaast wordt er veel onderzoek gedaan naar welke activiteiten er plaatsvinden in het brein. Uit recent onderzoek ([Zappar, Heather Andrew](https://www.zappar.com/blog/how-augmented-reality-affects-brain/)) bleek nog dat door een AR toepassing de ‘visual attention’ in het brein vergroot. Er wordt 70% meer opgeslagen in het geheugen ten opzichte van tekst op papier.
+Daarnaast wordt onderzoek gedaan naar welke activiteiten er plaatsvinden in het brein. Uit recent onderzoek ([Zappar, Heather Andrew](https://www.zappar.com/blog/how-augmented-reality-affects-brain/)) bleek dat door een AR toepassing de ‘visual attention’ in het brein vergroot, want er wordt 70% meer opgeslagen in het geheugen ten opzichte van tekst op papier.
 
-In 2015 heeft het British Musem ([Museums and the Web, 2016](https://mw2016.museumsandtheweb.com/paper/virtual-reality-at-the-british-museum-what-is-the-value-of-virtual-reality-environments-for-learning-by-children-and-young-people-schools-and-families/)) geëxperimenteerd met het inzetten van Virtual Reality om de waarde van dit medium te meten. Wederom was de conclusie dat VR een positieve impact heeft op de reactie en participatie van gebruikers.
+Het British Musem heeft in 2015 ([Museums and the Web, 2016](https://mw2016.museumsandtheweb.com/paper/virtual-reality-at-the-british-museum-what-is-the-value-of-virtual-reality-environments-for-learning-by-children-and-young-people-schools-and-families/)) geëxperimenteerd met het inzetten van Virtual Reality om de waarde van dit medium te meten. Wederom was de conclusie dat VR een positieve impact heeft op de reactie en participatie van gebruikers.
 
 #### Teamrollen
 *[Bekijk een overzicht van verschillende teamrollen. →](https://productbiografie.dandevri.es/concepting/IDEAS.html)*
@@ -91,14 +95,14 @@ In 2015 heeft het British Musem ([Museums and the Web, 2016](https://mw2016.muse
 Als de kandidaten in groepsverband gaan werken is het voor de observanten interessant om te zien hoe de kandidaten zich in een groep gedragen tijdens de ervaring. Door de head-mounted displays kunnen ze alleen door spraak met elkaar communiceren waardoor de teamrollen volgens het [Belbin Model](http://www.belbin.com/about/belbin-team-roles/) van [Meredith Belbin](http://www.belbin.com/about/dr-meredith-belbin/) beter naar voren komen.
 
 #### Context
-Daarnaast is een credo van &samhoud [‘usual unusual’](http://consultancy.samhoud.com/en/about), met recruitment wordt altijd geprobeerd anders te zijn dan de rest. Een VR toepassing tijdens een sollicitatie past dus erg bij deze visie en de strategie om altijd te innoveren in recruitment.
+Daarnaast is een credo van &samhoud [‘usual unusual’](http://consultancy.samhoud.com/en/about), met recruitment wordt altijd geprobeerd anders te zijn dan de rest. Een VR toepassing tijdens een sollicitatie past bij deze visie en de strategie om altijd te innoveren in recruitment.
 
 Tijdens de selectiedag is het van belang een bepaalde impressie achter te laten bij de kandidaten over de bedrijfsvoering van de consultancy tak. Kandidaten worden met een interactieve toepassing op een positieve manier verrast en maken kennis met de mogelijkheden van andere business lines binnen de &samhoud group.
 
 #### Data
-Naast het feit dat de [sessie met videocamera's](https://productbiografie.dandevri.es/research/REQUIREMENTS-LIST.html) opgenomen kan worden (iets wat nu niet gebeurd) zou het voor de observant een mogelijkheid kunnen zijn om live op een extern scherm mee te kijken met wat de kandidaten in de head-mounted display zien. Daarnaast is het nog mogelijk om een [reconstructie](https://github.com/dmarcos/aframe-motion-capture-components) (replay) van de sessie te maken door de positie en de input van controllers te [loggen](https://www.npmjs.com/package/aframe-log-component).
+Het zou mogelijk kunnen zijn om de sessie met videocamera's op te nemen, iets wat nu niet gebeurd. Ook zou het voor de observant een mogelijkheid kunnen zijn om [live op een extern scherm](https://productbiografie.dandevri.es/research/REQUIREMENTS-LIST.html) mee te kijken met wat de kandidaten in de head-mounted display zien. Daarnaast is het nog mogelijk om een [reconstructie](https://github.com/dmarcos/aframe-motion-capture-components) (replay) van de sessie te maken door de positie en de input van controllers te [loggen](https://www.npmjs.com/package/aframe-log-component).
 
-Al deze data kan gebruikt worden om volgende selectiedagen te verbeteren (de observanten kunnen zelf zien hoe sessies verlopen zijn en in het vervolg aanpassingen maken) of meer en gerichter feedback, waarom een kandidaat door of afgewezen is, bij de [terugkoppeling](https://productbiografie.dandevri.es/research/SCENARIO.html) kunnen geven.
+Deze data is inzetbaar om toekomstige selectiedagen te verbeteren. De observanten kunnen zelf zien hoe sessies verlopen zijn en in het vervolg aanpassingen maken of meer (gerichter) feedback te geven waarom een kandidaat door of afgewezen is. Bij de [terugkoppeling](https://productbiografie.dandevri.es/research/SCENARIO.html) kunnen ze tevens meer feedback geven.
 
 ### Low-cost hardware componenten
 
@@ -115,9 +119,13 @@ Duurdere hardware kits gaan vaak gepaard met kabels, al met al dus een langere o
 
 Ook na de selectieprocedure op locatie worden de drop-in viewers gebruikt voor een terugkoppeling, de kandidaten kunnen na afloop de drop-in viewer gemakkelijk meenemen.
 
-*[Lees in detail over hardware componenten. →](https://productbiografie.dandevri.es/vr/HARDWARE.html)*
+*[Lees in detail over alle hardware componenten. →](https://productbiografie.dandevri.es/vr/HARDWARE.html)*
 
-Voor het project beperken we ons tot drop-in viewers zonder controllers en de magneet als trigger. Er is teveel fragmentatie binnen de soorten drop-in viewers, zoals op de eigen [Google Cardboard specificatie](https://vr.google.com/cardboard/get-cardboard/) site te zien is kun je er niet standaard van uitgaan dat een drop-in viewer de functie van de magneet heeft. Daarnaast zijn de prijzen van cardboard viewers zonder magneet vaak goedkoper, zie bijvoorbeeld de [prijzen op Alibaba](https://www.alibaba.com/trade/search?fsb=y&IndexArea=product_en&CatId=&SearchText=cardboard+viewer&viewtype=G), waardoor het qua inkoopkosten aantrekkelijk is om ze in wholesale aan te schaffen. De cardboards worden niet hergebruikt maar meegennomen door de kandidaten waardoor er een groot aantal viewers beschikbaar moet zijn.
+De aanschafprijs van hardware en componenten is voor veel consumenten een vrij grote drempel om overheen te stappen. Met de komst van de [‘Cardboard’](https://vr.google.com/cardboard/) is er een hele nieuwe groep consumenten en ontwikkelaars van [VR ervaringen](https://experiments.withgoogle.com/collection/webvr) ontstaan. Cardboard refereert naar de techniek waarbij je een bestaande smartphone omzet in een [‘VR box’](https://www.quora.com/What-is-a-VR-box). De smartphone stop je in een ‘drop-in viewer’ waardoor er een head-mounted display ontstaat.
+
+Voor het project beperken we ons tot drop-in viewers zonder controllers en de magneet als trigger. Er is teveel fragmentatie binnen de soorten drop-in viewers, zoals op de eigen [Google Cardboard specificatie](https://vr.google.com/cardboard/get-cardboard/) site te zien is kun je er niet standaard van uitgaan dat een drop-in viewer de functie van de magneet heeft. 
+
+Daarnaast zijn de prijzen van cardboard viewers zonder magneet vaak goedkoper, zie bijvoorbeeld de [prijzen op Alibaba](https://www.alibaba.com/trade/search?fsb=y&IndexArea=product_en&CatId=&SearchText=cardboard+viewer&viewtype=G), waardoor het qua inkoopkosten aantrekkelijk is om ze in wholesale aan te schaffen. De cardboards worden niet hergebruikt maar meegenomen door de kandidaten waardoor er een groot aantal viewers beschikbaar moet zijn.
 
 ### WebVR als techniek
 Vrijwel alle applicaties die draaien op [dure hardware](https://www.vive.com/eu/product/vive-pro/) zijn zogeheten ‘native’ applicaties die specifiek voor een bepaald platform worden gemaakt. Naast een native applicatie is het mogelijk om een Virtual Reality applicatie te maken die draait in een browser. Dit heeft voor zowel de gebruikers van de applicatie en ontwikkelaars voordelen. 
@@ -129,12 +137,14 @@ Vrijwel alle applicaties die draaien op [dure hardware](https://www.vive.com/eu/
 #### Ontwikkelaars
 Voor ontwikkelaars is het ook een stuk toegankelijker geworden om een VR applicatie op het web te ontwikkelen ([Venturebeat, Amir Bozorgzadeh](https://venturebeat.com/2017/03/18/webvr-isnt-sexy-but-it-will-change-the-game-for-vr-this-year/)). 
 
-* **Huidige infrastructuur:** we maken gebruik van bestaande Web Technieken waardoor we veel van [bestaande infrastructuur](https://aframe.io/docs/0.8.0/introduction/javascript-events-dom-apis.html) (die het web ons biedt) kunnnen gebruiken. Denk bijvoorbeeld aan het toevoegen van data uit andere webbronnen of gebruik maken van [open-source tools en frameworks](https://github.com/wizztjh/awesome-WebVR).
+*[Bekijk een vergelijking van de verschillende technieken →](https://productbiografie.dandevri.es/prototyping/SPRINT-1.html)*
+
+* **Huidige infrastructuur:** we maken gebruik van bestaande Web Technieken waardoor we veel van bestaande infrastructuur (die het web ons biedt) kunnnen gebruiken. Denk bijvoorbeeld aan het toevoegen van data uit andere webbronnen of gebruik maken van open-source tools en frameworks.
 * **Snellere livegang:** de applicatie kan constant worden geüpdatet met de bestaande links zonder dat dit via een App Store moet.
 * **Cross-platform compabiliteit:** je hoeft niet te ontwikkelen voor een specifiek operating system of hardware device. De applicatie draait in een web browser.
 
 #### Technische obstakels
-* **Browser vendors:** willen het onderling nog wel eens oneens zijn met [implementaties](https://webvr.rocks/) van een bepaalde techniek. Bij WebVR is dit niet anders, niet elke browser ondersteunt in dezelfde mate de WebVR techniek. Deze [scope](https://webvr.info/developers/) zal dus ook aangepast moeten worden naar de browsers die eindgebruikers zullen gebruiken.
+* **Browser vendors:** willen het onderling nog wel eens oneens zijn met implementaties van een bepaalde techniek. Bij WebVR is dit niet anders, niet elke browser ondersteunt in dezelfde mate de WebVR techniek. Deze scope zal dus ook aangepast moeten worden naar de browsers die eindgebruikers zullen gebruiken.
 * **Performance:** een applicatie is mede afhankelijk van omgevingsfactoren, bijvoorbeeld de snelheid van een internetverbinding op dat moment.
 * **Progressive Enhancement:** vanwege de verschillende manieren van input die een gebruiker kan hebben is het verstandig eerst te detecteren welke input een gebruiker tot zijn beschikking heeft.
 
@@ -145,37 +155,51 @@ Voor gebruikers is het, door de komst van VR op het web ten opzichte van specifi
 * **Cross-platform compabiliteit:** de gebruiker bent niet afhankelijk van specifieke hardware of een bestaand platform.
 * **Kosten hardware:** de gebruiker kan in veel gevallen met bestaande hardware (smartphone) VR ervaren en hoeft voor een basis ervaring geen duurdere hardware kit (oculus, htc) aan te schaffen.
   
+## Concepting
+
+Na inzage te hebben gehad in het beoordelingsformulier en een aantal voorbeeldcases die tijdens de selectiedag worden uitgevoerd ben ik samen met de opdrachtnemer aan de slag gegaan met het uitwerken van een aantal eerste ideeën. Daarbij hebben we geprobeerd een antwoord te vinden voor de design challenge. Het is vooral van belang om goed te kijken naar de competenties die tijdens de selectiedag worden gemeten.
+
+Na brainstormen, idee ontwikkeling en de afbakening van techniek en hardware zijn we uiteindelijk op twee producten uitgekomen om te prototypen. In eerste instantie een aantal versimpelde cases op basis van verschillende Virtual Reality puzzle games. In een later stadium van het project zijn we op het idee gekomen om een (virtuele) [Escape Room](https://productbiografie.dandevri.es/prototyping/SPRINT-5.html) na te bootsen.
+
+Na afloop van de selectiedag nemen de kandidaten de drop-in viewers mee en krijgen ze een persoonlijke boodschap van oprichter Salem Samhoud mee in de vorm van een [360-video](https://productbiografie.dandevri.es/prototyping/VIDEO.html). Daarnaast is het een idee om de kandidaten achteraf de optie te geven om hun eigen sessie terug te kijken.
+
 ## Prototypes
+
+### Technische uitwerking
+*[Sprint 1 - Boilerplates →](https://productbiografie.dandevri.es/prototyping/SPRINT-1.html)*
+
 Het uitwerken van de prototypes is vooral technisch van aard. In een vrij vroeg stadium heb ik aangegeven dat ik alle prototypes publiekelijk (open-source) wou ontwikkelen. Vrijwel vanaf het begin heb ik toestemming gekregen om een [GitHub organisatie][github] aan te maken, een pagina waarin alle broncode van de prototypes te vinden zijn.
 
 *[Meer over eigendom en open-source werken →](https://productbiografie.dandevri.es/misc/LICENSING.html)*
 
 Zo is de broncode en documentatie voor iedereen inzichtelijk. Deze manier van werken zorgt ervoor dat ik snel iteratief kan werken en gemakkelijk feedback kan vergaren van andere ontwikkelaars.
 
-### Escape Room
-Tijdens de selectiedag betreden de kandidaten een ruimte zonder enige vorm van instructie. Voor hun ligt een houten kist met een cijferslot en een viertal drop-in viewers. Ze werken aan het gezamenlijke doel om de houten kist (in de 'echte wereld') open te krijgen. De kandidaten kunnen niet in elkaars kamer kijken en mogen de head-mounted display niet afzetten tijdens hun sessie waardoor ze alleen met spraak met elkaar kunnen communiceren.
+### Toolkit
+*[Sprint 2 - Puzzels →](https://productbiografie.dandevri.es/prototyping/SPRINT-2.html)*
 
-### Onderzoek
-Doordat we werken met drop-in viewers zijn er limitaties qua interactie mogelijkheden. Veel hardware kits komen met game controllers (input) bij een drop-in viewer is dit niet het geval. De enige mogelijkheid is zicht, binnen virtual reality noemen we dit gaze tracking. Met gaze tracking zou je objecten kunnen selecteren.
+Na het opzetten van de boilerplates en de eerste technische opzet ben ik de eerste puzzels gaan uitwerken. Met de teamrollen van Belbin in het achterhoofd ben ik aan de slag gegaan met het prototypen van een versimpelde versies van [Keep Talking and Nobody Explodes](https://productbiografie.dandevri.es/concepting/IDEAS.html), [I Expect You To Die](https://productbiografie.dandevri.es/concepting/IDEAS.html) en de [Soma Cube van Piet Hein](https://en.wikipedia.org/wiki/Soma_cube).
 
-De Escape Room is een virtuele omgeving, veel van het ontwerp is in de vorm van 3d-modellen. Dit is echt een vak apart en vooral tijdrovend om elk model afzonderlijk te maken. Aangezien dit niet direct binnen de competenties van de opleiding valt heb ik vooral bestaande modellen gebruikt.
+#### Escape Room
+*[Sprint 5 - Escape Room →](https://productbiografie.dandevri.es/prototyping/SPRINT-5.html)*
+In een later stadium van het project zijn we op het idee gekomen om een (virtuele) [Escape Room](https://productbiografie.dandevri.es/prototyping/SPRINT-5.html) na te bootsen. In het volgende hoofdstuk leg ik uit hoe dit iteratieve proces, van het [uitwerken van de prototypes](https://productbiografie.dandevri.es/prototyping/SPRINT-2.html) is verlopen.
 
-![Prototype Toolkit](/img/prototype-toolkit.jpg)
-
-### Testing
-Na het prototype te hebben voorgelegd aan de opdrachtgever was een van de vragen hoe deze applicatie nou gemakkelijk opgestart kon worden. Met verschillende telefoons handmatig URL's invoeren kan maar is niet de meest efficiënte manier. Het was voor de observanten van &samhoud dus belangrijk dat de cases vanuit een centrale plek opgestart konden worden. Hiervoor heb ik een centrale toolkit (website) gemaakt vanwaar alle cases opgestart kunnen worden.
+De puzzels, waaronder de eerste opzet van de Escape Room, zijn samengebracht tot een centrale toolkit (website) vanwaar alle puzzels gemakkelijk opgestart kunnen worden. De toepassingen worden zo op een centrale plek gehost en de puzzels kunnen op deze manier vanuit één website makkelijk opgestart kunnen worden.
 
 ### Techniek
-Zoals eerder benoemd maak ik bijna uitsluitend gebruik van [A-Frame][frame]. *[Bekijk de volledige Tech Stack →](https://productbiografie.dandevri.es/prototyping/SHOWCASE.html)* Voor het registeren van componenten heb ik in eerste instantie een boilerplate opgezet die de applicatie met [Webpack][webpack] bundled. Voor het downloaden van 3D-modellen gebruik ik voornamelijk andere bronnen; [Google Low Poly][poly] of [Sketchfab][sketchfab].
+*[Sprint 4 - Toolkit →](https://productbiografie.dandevri.es/prototyping/SPRINT-4.html)*
 
-Voor de observanten is er een toolkit ontwikkeld die ervoor zorgt dat alles cases gemakkelijk vanaf een centrale plek opgestart kunnen worden. Hiervoor maak ik gebruik van [Node.js](https://nodejs.org/en/), [Express](https://expressjs.com/) en [Pug](https://pugjs.org/api/getting-started.html) om de desbetreffende pagina's te renderen en door te linken naar de juiste puzzels.
+[Node.js](https://nodejs.org/en/), [Express](https://expressjs.com/) en [Pug](https://pugjs.org/api/getting-started.html) is de tech stack die de desbetreffende pagina's te renderen en doorlinken naar de juiste puzzels. De opzet met Node en Express is vooral gekozen voor de eventuele enhancement van een accountsysteem. De toolkit is alleen bedoelt voor intern gebruik. Een eventuele feature, die ik nog graag had willen toevoegen, is dat alleen observanten met een &samhoud mailadres kunnen inloggen.
+
+Voor de puzzels maak ik uitsluitend gebruik van [A-Frame][frame]. *[Bekijk de volledige Tech Stack →](https://productbiografie.dandevri.es/prototyping/SHOWCASE.html)* Voor het registeren van componenten heb ik in eerste instantie een boilerplate opgezet die de applicatie met [Webpack][webpack] bundled. Voor het downloaden van 3D-modellen gebruik ik voornamelijk andere bronnen; [Google Low Poly][poly] of [Sketchfab][sketchfab].
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tyo6ARajhEE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ### 360-video
-De drop-in viewers die tijdens de junior caroussel gebruikt worden nemen de kandidaten na afloop mee. Via een link krijgen ze vervolgens een 360-video met een persoonlijke boodschap van Salem Samhoud, oprichter van de &samhoud groep.
+*[Sprint 3 - 360-video's →](https://productbiografie.dandevri.es/prototyping/SPRINT-3.html)*
 
-De video is opgenomen met een [Insta 360][insta] camera. Door de geringe tijd die er met Salem beschikbaar was is er gekozen voor een 'Point and shoot' camera die met een smartphone te bedienen is, ten opzichte van duurdere video rigs.
+Via een link (bij de terugkoppeling via de mail) krijgen de kandidaten na afloop een 360-video met een persoonlijke boodschap van Salem Samhoud, oprichter van de &samhoud groep.
+
+Vanwege de geringe tijd die we met Salem tot onze beschikking hadden is de video is opgenomen met een relatief simepele ‘Point and shoot’ [Insta 360](https://www.insta360.com) camera. [Adobe Premiere Pro CC](https://www.adobe.com/products/premiere.html) heeft nieuwe mogelijkheden om 360-video te bewerken. Het syncen van de audio en het toevoegen van graphics (intro en outro) kan met deze tool gemakkelijk zonder veel voorkennis van videobewerking.
 
 Voor aanvang is er kort wat 'location scouting' gedaan. De mondelinge boodschap is bij de video het belangrijkst, de setting en locatie (in het [&moshik][moshik] restaurant) zijn bewust gekozen om afleiding te beperken. Vandaar dat Salem stil aan tafel zit in plaats van meer dynamiek door bijvoorbeeld rondlopen in de ruimte. Hetzelfde gaat op voor audio, vaak maken 360-video's gebruik van spatial audio. Bij de uiteindelijke video's zijn de audio levels constant, ongeacht of je je hoofd draait het volume blijft hetzelfde.
 
@@ -188,6 +212,9 @@ Gedurende het testen met de camera en voorafgaand aan de opname zijn er een aant
 * **Positie**  
   Het stabilizeren van de camera en op de juiste horizon lijn plaatsen minimaliseert Motion Sickness. Door de camera op borsthoogte te plaatsen zien personen er niet scheef (warped) uit.
 
+De keuze voor 360-video ten opzichte van ‘reguliere’ video content komt vooral voort uit marketing doeleinden. De click-trough rate ([Magnifyre](http://magnifyre.com/360-degree-video-case-study/)) en engagement bij advertenties ([Jim Habig, 2016](https://www.thinkwithgoogle.com/advertising-channels/video/360-video-advertising/)) liggen hoger bij een 360-video. Hoewel beiden valide redenen zijn, binnen dit onderzoek zjn zeniet doorslaggevend. &samhoud media heeft geen commercieel bij de 360-videos.
+
+Vanuit een storytelling persepctief kan een 360-video veel beteken ([BBC, 2017](http://www.bbc.co.uk/academy/en/articles/art20160307115255835)). Je kan zo gedurende de opname en de ervaring met Salem veel persoonlijker maken. Door de manier van opnemen (beschreven in de volgende sectie) leidt deze vorm minimaal af van de boodschap die Salem gedurende de video overbrengt.
 
 ### Testing
 Het kost tijd om een gebruiker zich comfortabel te laten voelen. In de eerste versie begon de video gelijk met afspelen waardoor er te weinig tijd was om de smartphone in de drop-in viewer te stoppen. Door een intro en countdown te introduceren krijgt de kijker meer feedback over wanneer de video start met afspelen.
@@ -195,8 +222,9 @@ Het kost tijd om een gebruiker zich comfortabel te laten voelen. In de eerste ve
 Daarnaast zat in eerste instantie de melding over audio in de video verwerkt, op dat moment is het al te laat. De video is dan al begonnen met afspelen. Door deze melding te verplaatsen naar een opstartscherm heeft de gebruiker van tevoren tijd om oortjes te pakken of het volume van de speaker te verhogen.
 
 ### Techniek
-[Adobe Premiere Pro CC][premiere] heeft nieuwe mogelijkheden om 360-video te bewerken en in post-productie nog te schaven. 
-*[Bekijk de volledige Tech Stack →](https://productbiografie.dandevri.es/prototyping/VIDEO.html)* Het syncen van de audio en het toevoegen van graphics (intro / outro) kan met deze tool prima. Om het 360-video formaat af te kunnen spelen in de browser maak ik gebruik van A-Frame in combinatie met een aantal custom componenten.
+Om het 360-video formaat af te kunnen spelen in de browser maak ik gebruik van A-Frame in combinatie met een aantal custom componenten.
+
+*[Bekijk de volledige Tech Stack →](https://productbiografie.dandevri.es/prototyping/VIDEO.html)*
 
 Browsers blokkeren het automatisch afspelen van video's op een smartphone (en binnenkort ook op Desktop). Er is een user-gesture nodig, door het klikken van de knop op het opstartscherm begint de video met afspelen.
 
@@ -204,27 +232,39 @@ Browsers blokkeren het automatisch afspelen van video's op een smartphone (en bi
 
 ## Conclusie
 
-Binnen de context van &samhoud consultancy en de informele sfeer die gedurende de caroussel heerst past het inzetten van WebVR bij de strategie om altijd te innoveren in recruitment waarbij 'usual unusual' voor &samhoud consultancy centraal staat. In een stricter sollicitatieproces kan ik me voorstellen dat het inzetten van een VR ervaring ongepast kan zijn.
+Binnen de context van &samhoud consultancy en de [informele sfeer](https://productbiografie.dandevri.es/research/SCENARIO.html) die gedurende de selectiedag heerst past het inzetten van WebVR bij de strategie om altijd te innoveren in recruitment waarbij [‘usual unusual’](https://productbiografie.dandevri.es/concepting/FOCUS.html) voor &samhoud consultancy centraal staat. In een stricter sollicitatieproces kan ik me voorstellen dat het inzetten van een VR ervaring ongepast kan zijn.
 
-De Escape Room is een aanvulling op de huidige cases die tijdens de junior caroussel worden behandeld. Het resultaat, na afloop van de caroussel, hangt niet volledig af van de prestaties gedurende de toepassing. Dit geldt grotendeels voor de 360-video's. De resultaten worden in eerste instantie altijd nog telefonisch naar de kandidaat gecommuniceerd. Helemaal als het een afwijzing betreft, vanuit ethisch perspectief is er gekozen om de afwijzing alleen telefonisch te houden.
+De interactieve digitale cases zijn een aanvulling op de huidige cases die tijdens de selectiedag worden behandeld. Het resultaat, na afloop van de selectiedag, voor de kandidaten hangt niet volledig af van de prestaties tijdens de WebVR toepassing.
+
+Hetzelfde geldt voor de 360-video's. Naast dat de resultaten telefonisch naar de kandidaat worden gecommuniceerd is het [inzetten van 360-video](https://productbiografie.dandevri.es/prototyping/VIDEO.html) als persoonlijke boodschap een mooie aanvulling. Vanuit ethisch perspectief is er gekozen om afwijzingen alleen telefonisch te communiceren.
+
+**Sascha Vloet namens &samhoud consultancy:**
+> ‘Kandidaten van de junior caroussel geven aan de WebVR case als positieve verassing te ervaren. Ze vinden het vooral interessant om de mogelijkheden binnen andere businesslines (van &samhoud) te zien.’
+
+Na oplevering aan &samhoud consultancy ben ik ervan overtuigd dat mijn oplossing aan alle elementen van mijn [ontwerpvraag](https://productbiografie.dandevri.es/research/DESIGN-CHALLENGE.html) voldoet.
+
+> Hoe kan een **Web Virtual Reality toepassing** tijdens de **interne selectiedag** van **&samhoud consultancy** de huidige cases aanvullen en interactiever maken zodat **de competenties van aankomende junior consultants** beter te meten zijn?
+
+Door het gebruik van [low-cost hardware](https://productbiografie.dandevri.es/vr/HARDWARE.html) en [het web](https://productbiografie.dandevri.es/vr/TECH.html) als platform is de toepassing eenvoudig tijdens de selectiedag inzetbaar. Door Virtual Reality toe te passen wordt de [user engagement, het gevoel van presence en immersie vergroot](https://productbiografie.dandevri.es/concepting/FOCUS.html).
+
+Door kandidaten Virtual Reality cases in groepsverband te laten uitvoeren komen de analytische en communicatieve competenties beter naar voren. Combineer deze met de [teamrollen van Belbin](https://productbiografie.dandevri.es/concepting/IDEAS.html) en de observanten van &samhoud consultancy kan zo veel beter [observeren](https://productbiografie.dandevri.es/research/REQUIREMENTS-LIST.html) hoe een kandidaat zich gedraagt in teamverband.
+
+De mogelijkheid om meer [data te verzamelen](https://productbiografie.dandevri.es/concepting/FOCUS.html) zorgt ervoor dat de feedback naar kandidaten op een consistentere en specfiekere manier kan worden teruggekoppeld.
 
 *[Lees de reflectie over het verloop van het project. →](https://productbiografie.dandevri.es/reflection/REFLECTION.html)*
 
-Door het gebruik van low-cost componenten en het Web als platform is de toepassing gemakkelijk tijdens de dag inzetbaar. Door de interactiviteit en de vorm van gamification gaan kandidaten meer op in de visuele ervaring waardoor de competenties beter naar voren komen.
+**Sascha Vloet namens &samhoud consultancy:**
+> ‘Danny heeft de afgelopen maanden enkele prototypes ontwikkeld die we kunnen gebruiken tijdens de selectiedag van &samhoud consultancy, van begin tot eind wat dit een prettige samenwerking! Als leek op het gebied van Web-VR heeft Danny me veel bij kunnen brengen over de verschillende mogelijkheden, hij is duidelijk in zijn uitleg en heeft meerdere creatieve oplossingen bedacht en uitgewerkt. Het eindproduct wat Danny nu inlevert legt voor ons een goede basis om door te gaan met dit project.’
 
 *[Lees meer over de overdracht van het project →](https://productbiografie.dandevri.es/reflection/VISION.html)*
 
-Doordat alle prototypes publiekelijk beschikbaar zijn is het gemakkelijk om verder te werken. Developers bij &samhoud zouden met enige technische kennis zelf aanpassingen kunnen maken. Elk project is goed gedocumenteerd, zonder actief bij het project betrokken te zijn geweest moet het voor iedere developer mogelijk zijn om eraan te werken. 
+Doordat alle prototypes [publiekelijk beschikbaar](https://productbiografie.dandevri.es/prototyping/WORKING.html) zijn is het gemakkelijk om verder te werken. Developers bij &samhoud zouden zelf aanpassingen kunnen maken. Alle prototypes zijn goed gedocumenteerd, zonder actief bij het project betrokken te zijn geweest is het voor developers mogelijk om verder aan het product te werken.
 
+## Aanbevelingen
 
-De grootste limitatie (althans, dit is een bewuste keuze geweest) is de beperkte input van bijvoorbeeld game controllers. Hierdoor valt een hoop interactie weg. Vanuit technisch perspectief was het interessant geweest om te kijken hoe de huidige versies met de mogelijkheden van controllers enhanced kunnen worden waardoor er meer interactie met objecten ontstaat.
+Doordat alle prototypes publiekelijk beschikbaar zijn is het makkelijk voor developers om verder te werken aan dit project. Met Sascha heb ik nog een laatste gesprek gehad ter overdracht en haar de staat van het project laten zien voor inlevering. Met al het onderzoek wat er nu staat kunnen ze verder werken en overwegen om het prototype intern (of extern) verder te ontwikkelen zodat deze nog beter inzetbaar is. 
 
-Daarnaast heeft de Escape Room nu maar één mogelijke uitkomst. Vanuit technisch perspectief was het ook interessant geweest om te kijken of bepaalde hints bijvoorbeeld random genereerd hadden kunnen worden. 
-
-### Opdrachtgever
-> ‘Danny heeft de afgelopen maanden enkele prototypes ontwikkeld die we kunnen gebruiken tijdens de selectiedag van &samhoud consultancy, van begin tot eind wat dit een prettige samenwerking! Als leek op het gebied van WebVR heeft Danny me veel bij kunnen brengen over de verschillende mogelijkheden, hij is duidelijk in zijn uitleg en heeft meerdere creatieve oplossingen bedacht en uitgewerkt. Het eindproduct wat Danny nu inlevert legt voor ons een goede basis om door te gaan met dit project.’
-
-> Kandidaten van de junior caroussel geven aan de WebVR case als positieve verassing te ervaren. Ze vinden het vooral interessant om de mogelijkheden binnen andere businesslines (van &samhoud) te zien.'
+Als er meet tijd was had ik graag het huidige prototype (vooral de escape room) nog verder willen enhancen met de feedback die bij elke iteratie gegeven is. Op basis van de iteraties zijn er nog technische uitdagingen om aan te werken.
 
 ## Meta
 
