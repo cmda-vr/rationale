@@ -15,13 +15,15 @@ Als oplossing ontwikkel ik een website die dient als [toolkit](https://productbi
 ![Kantoor](/img/kantoor.jpg)
 
 ## Ontwerpvraag
+*[Bekijk een overzicht van alle onderzoeksvragen. →](https://productbiografie.dandevri.es/research/DESIGN-CHALLENGE.html)*
+
 > Hoe kan een **Web Virtual Reality toepassing** tijdens de **interne selectiedag** van **&samhoud consultancy** de huidige cases aanvullen en interactiever maken zodat **de competenties van aankomende junior consultants** beter te meten zijn?
 
-*[Bekijk een overzicht van alle onderzoeksvragen. →](https://productbiografie.dandevri.es/research/DESIGN-CHALLENGE.html)*
+*[Bekijk een diagram met alle stakeholders. →](https://productbiografie.dandevri.es/research/STAKEHOLDERS.html)*
 
 Biedt een Virtual Reality toepassing in dit geval een meerwaarde in het recruitment process en wat zou deze toepassing moeten bieden om praktisch ingezet te worden?
 
-*[Bekijk een diagram met alle stakeholders. →](https://productbiografie.dandevri.es/research/STAKEHOLDERS.html)*
+*[Lees meer over de opdrachtgever. →](https://productbiografie.dandevri.es/research/STAKEHOLDERS.html)*
 
 Met dit vraagstuk kwam &samhoud consultancy bij dochterbedrijf [&samhoud media][media]. Als creatief bureau, gespecialiseerd in [augmented en virtual reality producties](https://samhoudmedia.com/cases), zag &samhoud media kansen om deze cases met de mogelijkheden van Virtual Reality  een stuk interactiever te maken.
 
@@ -30,7 +32,7 @@ Bij de huidige cases op papier ligt de nadruk op het oplossen van een vakinhoude
 
 Het probleem bij deze vorm is dat voornamelijk de competenties: **communicatief**, **analytisch** en **samenwerken** door de observanten moeilijk meetbaar zijn. Communicatie en samenwerken zijn, uit ervaring van de observanten, alleen goed te meten in groepsverband terwijl de huidige cases zich vooral focussen op de kandidaat als individu.
 
-### Huidige situatie
+## Huidige situatie
 Voor een selectiedag (junior caroussel) worden tussen de 25 á 30 kandidaten uitgenodigd. Na een vooral [informatieve ochtend](https://productbiografie.dandevri.es/research/SCENARIO.html) (met presentaties over de bedrijfsvoering) werken de kandidaten aan een aantal business cases. De kandidaten staan gedurende de dag constant met elkaar in contact. Een groot deel van de selectiedag is in groepsverband maar er zijn ook individuele momenten. Aan de hand van een rooster weten de kandidaten waar ze moeten zijn en wat de tijdsindeling van de dag is, zo bleek uit [interviews met kandidaten](https://productbiografie.dandevri.es/deliverables/INTERVIEW.html).
 
 *[Lees meer over het scenario gedurende de selectiedag. →](https://productbiografie.dandevri.es/research/SCENARIO.html)*
@@ -71,64 +73,78 @@ Voor aanvang van het project ligt mijn focus grotendeels op het doen van onderzo
 ## Onderbouwing
 
 ### De meerwaarde van Virual Reality
-Een Virtual Reality toepassing vergroot over het algemeen de user engagement. Door een visuele digitale toepassing gaat de 'visual attention' in het brein omhoog en wordt er 70% meer opgeslagen in het geheugen ten opzichte van tekst of papier.
 
-Door het toepassen van de digitale middelen zijn de competenties een stuk beter meetbaar, er is zo een grotere hoeveelheid data beschikbaar die een observant kan inzien.
+#### User Engagement
+Een Virtual Reality toepassing vergroot over het algemeen de **user engagement**. Doordat de cases een stuk interactiever en visueler zijn gaan mensen eerder op in de ervaring. In de wereld van Virtual Reality wordt dit onderscheden met twee termen ‘Immersie’ ([Frederick P. Brooks](https://www.cs.unc.edu/~brooks/WhatsReal.pdf)) en ‘presence’ ([Valve, Michael Abrash](http://media.steampowered.com/apps/abrashblog/Abrash%20Dev%20Days%202014.pdf)). 
 
-* **Hogere user engagement**  
-  Door een digitale oplossing ten opzichte van een 'papieren' versie gaan de kandidaten actiever te werk.
-* **Beter meetbare competenties**  
-  Tijdens het gebruik van de toepassing kunnen de kandidaten alleen doormiddel van spraak met elkaar communiceren.
-* **Meer data beschikbaar**  
-  Vanwege de infastructuur van het web is het mogelijk om meer data te verzamelen tijdens het gebruik van de toepassing.
+Een digitale case kan de volgende vormen van immersie vergroten:
+* tactische immersie (Ernest W. Adams): wanneer een speler tactische operaties uitvoert die een zekere vaardigheid vergen.
+* ruimtelijke immersie (Staffan Bjork): spatiale of ruimtelijke immersie doet zich voor wanneer een speler de gesimuleerde ruimte als perceptueel overtuigend ervaart.
 
-Daarnaast is een credo van &samhoud 'usual unusual', ze proberen altijd net even anders te zijn dan de rest. Een VR toepassing tijdens een sollicitatie past dus erg bij deze visie en de strategie om altijd te innoveren in recruitment.
+Daarnaast wordt er veel onderzoek gedaan naar welke activiteiten er plaatsvinden in het brein. Uit recent onderzoek ([Zappar, Heather Andrew](https://www.zappar.com/blog/how-augmented-reality-affects-brain/)) bleek nog dat door een AR toepassing de ‘visual attention’ in het brein vergroot. Er wordt 70% meer opgeslagen in het geheugen ten opzichte van tekst op papier.
 
-Tijdens de selectiedag is het natuurlijk ook van belang een bepaalde impressie achter te laten bij de kandidaten over de bedrijfsvoering van de consultancy tak. Kandidaten worden met een interactieve toepassing op een positieve manier verrast en maken kennis met de mogelijkheden van andere business lines binnen de &samhoud group.
+In 2015 heeft het British Musem ([Museums and the Web, 2016](https://mw2016.museumsandtheweb.com/paper/virtual-reality-at-the-british-museum-what-is-the-value-of-virtual-reality-environments-for-learning-by-children-and-young-people-schools-and-families/)) geëxperimenteerd met het inzetten van Virtual Reality om de waarde van dit medium te meten. Wederom was de conclusie dat VR een positieve impact heeft op de reactie en participatie van gebruikers.
+
+#### Teamrollen
+*[Bekijk een overzicht van verschillende teamrollen. →](https://productbiografie.dandevri.es/concepting/IDEAS.html)*
+
+Als de kandidaten in groepsverband gaan werken is het voor de observanten interessant om te zien hoe de kandidaten zich in een groep gedragen tijdens de ervaring. Door de head-mounted displays kunnen ze alleen door spraak met elkaar communiceren waardoor de teamrollen volgens het [Belbin Model](http://www.belbin.com/about/belbin-team-roles/) van [Meredith Belbin](http://www.belbin.com/about/dr-meredith-belbin/) beter naar voren komen.
+
+#### Context
+Daarnaast is een credo van &samhoud [‘usual unusual’](http://consultancy.samhoud.com/en/about), met recruitment wordt altijd geprobeerd anders te zijn dan de rest. Een VR toepassing tijdens een sollicitatie past dus erg bij deze visie en de strategie om altijd te innoveren in recruitment.
+
+Tijdens de selectiedag is het van belang een bepaalde impressie achter te laten bij de kandidaten over de bedrijfsvoering van de consultancy tak. Kandidaten worden met een interactieve toepassing op een positieve manier verrast en maken kennis met de mogelijkheden van andere business lines binnen de &samhoud group.
+
+#### Data
+Naast het feit dat de [sessie met videocamera's](https://productbiografie.dandevri.es/research/REQUIREMENTS-LIST.html) opgenomen kan worden (iets wat nu niet gebeurd) zou het voor de observant een mogelijkheid kunnen zijn om live op een extern scherm mee te kijken met wat de kandidaten in de head-mounted display zien. Daarnaast is het nog mogelijk om een [reconstructie](https://github.com/dmarcos/aframe-motion-capture-components) (replay) van de sessie te maken door de positie en de input van controllers te [loggen](https://www.npmjs.com/package/aframe-log-component).
+
+Al deze data kan gebruikt worden om volgende selectiedagen te verbeteren (de observanten kunnen zelf zien hoe sessies verlopen zijn en in het vervolg aanpassingen maken) of meer en gerichter feedback, waarom een kandidaat door of afgewezen is, bij de [terugkoppeling](https://productbiografie.dandevri.es/research/SCENARIO.html) kunnen geven.
 
 ### Low-cost hardware componenten
+
 *[Technische termen zijn opgenomen in een verklarende woordenlijst. →](https://productbiografie.dandevri.es/GLOSSARY.html)*
 
-Vooral de laatste paar jaren is er meer hardware om virtual reality te ervaren beschikbaar. Op basis van het huidige scenario en de omgeving van de selectiedag zijn er keuzes gemaakt in hardware componenten die voor deze specifieke situatie goed werken. Daarom maken we van maar een klein spectrum aan hardware componenten gebruik. 
+Vanwege de overvloed aan hardware zijn er keuzes gemaakt welke hardware componenten binnen de context van de selectiedag goed werken. De toepassing is geoptimaliseerd voor low-cost components, specifiek de zogeheten drop-in viewers (cardboards) waarbij een kandidaat de smartphone gebruikt als head-mounted display.
 
-*[Lees in detail over hardware componenten →](https://productbiografie.dandevri.es/vr/HARDWARE.html)*
+* **Relatief lage opstartkosten**: 
+De drop-in viewers gemaakt van karton of plastic hebben lage inkoopkosten waardoor het goedkoop is om meerdere aan te schaffen voor gebruik in groepsverband tijdens de selectiedag.
+* **Portabiliteit**: 
+Vanwege het formaat en het gewicht zijn de drop-in viewers makkelijk na afloop mee te nemen.
+* **Opstelling**: 
+Duurdere hardware kits gaan vaak gepaard met kabels, al met al dus een langere opstarttijd. Drop-in viewers maken alleen gebruik van de smartphone van een kandidaat.
 
-Er is gekozen om de toepassing te optimaliseren voor low-cost components. Specifiek de zogeheten drop-in viewers (google cardboard is het bekendste voorbeeld) waarbij je de smartphone gebruikt als head-mounted display.
+Ook na de selectieprocedure op locatie worden de drop-in viewers gebruikt voor een terugkoppeling, de kandidaten kunnen na afloop de drop-in viewer gemakkelijk meenemen.
 
-* **Relatief lage opstartkosten**  
-  De drop-in viewers gemaakt van karton of plastic hebben lage inkoopkosten waardoor het goedkoop is om meerdere aan te schaffen voor gebruik in groepsverband tijdens de selectiedag.
-* **Portabiliteit**  
-  Vanwege het formaat en het gewicht zijn de drop-in viewers makkelijk na afloop mee te nemen.
-* **Opstelling**  
-  Duurdere hardware kits gaan vaak gepaard met kabels, al met al dus een langere opstarttijd. Drop-in viewers maken alleen gebruik van de smartphone van een kandidaat.
+*[Lees in detail over hardware componenten. →](https://productbiografie.dandevri.es/vr/HARDWARE.html)*
 
-Ook na de selectieprocedure op locatie gebruiken we de drop-in viewers voor een terugkoppeling, de kandidaten kunnen na afloop de drop-in viewers gemakkelijk meenemen.
+Voor het project beperken we ons tot drop-in viewers zonder controllers en de magneet als trigger. Er is teveel fragmentatie binnen de soorten drop-in viewers, zoals op de eigen [Google Cardboard specificatie](https://vr.google.com/cardboard/get-cardboard/) site te zien is kun je er niet standaard van uitgaan dat een drop-in viewer de functie van de magneet heeft. Daarnaast zijn de prijzen van cardboard viewers zonder magneet vaak goedkoper, zie bijvoorbeeld de [prijzen op Alibaba](https://www.alibaba.com/trade/search?fsb=y&IndexArea=product_en&CatId=&SearchText=cardboard+viewer&viewtype=G), waardoor het qua inkoopkosten aantrekkelijk is om ze in wholesale aan te schaffen. De cardboards worden niet hergebruikt maar meegennomen door de kandidaten waardoor er een groot aantal viewers beschikbaar moet zijn.
 
 ### WebVR als techniek
-Vrijwel alle applicaties die draaien op dure hardware zijn zogeheten 'native' applicaties die specifiek voor een bepaald platform worden gemaakt. Naast een native applicatie is het mogelijk om een Virtual Reality applicatie te maken die draait in een browser. 
+Vrijwel alle applicaties die draaien op [dure hardware](https://www.vive.com/eu/product/vive-pro/) zijn zogeheten ‘native’ applicaties die specifiek voor een bepaald platform worden gemaakt. Naast een native applicatie is het mogelijk om een Virtual Reality applicatie te maken die draait in een browser. Dit heeft voor zowel de gebruikers van de applicatie en ontwikkelaars voordelen. 
 
 *[Bekijk een inleidende video over WebVR →](https://www.youtube.com/watch?v=Jzrqrji_2xk)*
 
-> Het doel van **WebVR** is om het voor zowel **ontwikkelaars als gebruikers** toegankelijker (drempelvrij) te maken om Virtual Reality te ervaren. **Ongeacht de devices en input** die ze tot hun beschikking hebben.
+> Het doel van WebVR is om het voor zowel ontwikkelaars als gebruikers toegankelijker (drempelvrij) te maken om Virtual Reality te ervaren. Ongeacht de devices en input die ze tot hun beschikking hebben. - Google Chrome Developers
 
 #### Ontwikkelaars
-Voor front-end developers is het een stuk toegankelijker om een toepassing in een browser te ontwikkelen.
-* **Huidige infrastructuur**  
-  Als developer kun je makkelijk gebruik maken van de infrastructuur die het web te bieden heeft. Specifieke open-source tools en frameworks waar we op kunnen voortborduren. Daarnaast kan een developer gebruikmaken van de kennis van huidige programmeertalen in plaats van het aanleren van nieuwe syntax.
-* **Livegang**  
-  De toepassing kan constant worden geüpdatet (continuous integration) op dezelfde URL. Daarnaast hoef je de applicatie niet te distribueren door een App Store.
-* **Cross-platform**  
-  Een browser werkt op meerdere platformen waardoor een ontwikkelaar niet specifiek voor een bepaald hardware of operating system hoeft te ontwikkelen. De applicatie draait in een browser.
+Voor ontwikkelaars is het ook een stuk toegankelijker geworden om een VR applicatie op het web te ontwikkelen ([Venturebeat, Amir Bozorgzadeh](https://venturebeat.com/2017/03/18/webvr-isnt-sexy-but-it-will-change-the-game-for-vr-this-year/)). 
+
+* **Huidige infrastructuur:** we maken gebruik van bestaande Web Technieken waardoor we veel van [bestaande infrastructuur](https://aframe.io/docs/0.8.0/introduction/javascript-events-dom-apis.html) (die het web ons biedt) kunnnen gebruiken. Denk bijvoorbeeld aan het toevoegen van data uit andere webbronnen of gebruik maken van [open-source tools en frameworks](https://github.com/wizztjh/awesome-WebVR).
+* **Snellere livegang:** de applicatie kan constant worden geüpdatet met de bestaande links zonder dat dit via een App Store moet.
+* **Cross-platform compabiliteit:** je hoeft niet te ontwikkelen voor een specifiek operating system of hardware device. De applicatie draait in een web browser.
+
+#### Technische obstakels
+* **Browser vendors:** willen het onderling nog wel eens oneens zijn met [implementaties](https://webvr.rocks/) van een bepaalde techniek. Bij WebVR is dit niet anders, niet elke browser ondersteunt in dezelfde mate de WebVR techniek. Deze [scope](https://webvr.info/developers/) zal dus ook aangepast moeten worden naar de browsers die eindgebruikers zullen gebruiken.
+* **Performance:** een applicatie is mede afhankelijk van omgevingsfactoren, bijvoorbeeld de snelheid van een internetverbinding op dat moment.
+* **Progressive Enhancement:** vanwege de verschillende manieren van input die een gebruiker kan hebben is het verstandig eerst te detecteren welke input een gebruiker tot zijn beschikking heeft.
 
 #### Gebruikers
-Ook is het voor gebruikers een stuk toegankelijk om virtual reality te ervaren.
-* **Opstarttijd**  
-  Voor aanvang hoeft er geen applicatie geïnstalleerd te worden. Het opstarten van een toepassing kan simpelweg door naar een URL in de browser te gaan.
-* **Kosten**  
-  Een gebruiker kan in veel gevallen met bestaande hardware (smartphone) vr ervaren en hoeft voor een basis ervaring geen dure hardware kits (oculus) aan te schaffen.
-* **Cross-plaform**  
-  Hier geldt dus ook weer, door het gebruik van een browser wordt met één toepassing zowel Android als iOS ondersteund.
+Voor gebruikers is het, door de komst van VR op het web ten opzichte van specifieke native en/of software applicaties, een stuk toegankelijker om VR te ervaren ([Tony Parisi, Learning Virtual Reality](http://shop.oreilly.com/product/0636920038467.do)).
 
+* **Korte opstart:** er hoeft geen aparte applicatie geïnstalleerd te worden. Het opstarten van een ervaring kan dus simpelweg door naar een link te gaan in de browser.
+* **Cross-platform compabiliteit:** de gebruiker bent niet afhankelijk van specifieke hardware of een bestaand platform.
+* **Kosten hardware:** de gebruiker kan in veel gevallen met bestaande hardware (smartphone) VR ervaren en hoeft voor een basis ervaring geen duurdere hardware kit (oculus, htc) aan te schaffen.
+  
 ## Prototypes
 Het uitwerken van de prototypes is vooral technisch van aard. In een vrij vroeg stadium heb ik aangegeven dat ik alle prototypes publiekelijk (open-source) wou ontwikkelen. Vrijwel vanaf het begin heb ik toestemming gekregen om een [GitHub organisatie][github] aan te maken, een pagina waarin alle broncode van de prototypes te vinden zijn.
 
