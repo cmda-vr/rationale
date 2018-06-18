@@ -159,7 +159,7 @@ Voor gebruikers is het, door de komst van VR op het web ten opzichte van specifi
 
 Na inzage te hebben gehad in het beoordelingsformulier en een aantal voorbeeldcases die tijdens de selectiedag worden uitgevoerd ben ik samen met de opdrachtnemer aan de slag gegaan met het uitwerken van een aantal eerste ideeën. Daarbij hebben we geprobeerd een antwoord te vinden voor de design challenge. Het is vooral van belang om goed te kijken naar de competenties die tijdens de selectiedag worden gemeten.
 
-Na brainstormen, idee ontwikkeling en de afbakening van techniek en hardware zijn we uiteindelijk op twee producten uitgekomen om te prototypen. In eerste instantie een aantal versimpelde cases op basis van verschillende Virtual Reality puzzle games. In een later stadium van het project zijn we op het idee gekomen om een (virtuele) [Escape Room](https://productbiografie.dandevri.es/prototyping/SPRINT-5.html) na te bootsen.
+Na brainstormen, idee ontwikkeling en de afbakening van techniek, [interactie](https://productbiografie.dandevri.es/vr/INTERACTIE.html) en hardware zijn we uiteindelijk op twee producten uitgekomen om te prototypen. In eerste instantie een aantal versimpelde cases op basis van verschillende Virtual Reality puzzle games. In een later stadium van het project zijn we op het idee gekomen om een (virtuele) [Escape Room](https://productbiografie.dandevri.es/prototyping/SPRINT-5.html) na te bootsen.
 
 Na afloop van de selectiedag nemen de kandidaten de drop-in viewers mee en krijgen ze een persoonlijke boodschap van oprichter Salem Samhoud mee in de vorm van een [360-video](https://productbiografie.dandevri.es/prototyping/VIDEO.html). Daarnaast is het een idee om de kandidaten achteraf de optie te geven om hun eigen sessie terug te kijken.
 
@@ -273,7 +273,7 @@ Als er meet tijd was had ik graag het huidige prototype (vooral de escape room) 
 **Opleiding:** Communication and Multimedia Design  
 **Onderwijsinstelling:** Hogeschool van Amsterdam  
 **Startdatum:** 04.02.2018  
-**Eindatum:** 08.06.2018  
+**Eindatum:** 18.06.2018  
 
 #### Contactgegevens Bedrijf:
 * &Samhoud media
