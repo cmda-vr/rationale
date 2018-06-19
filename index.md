@@ -13,6 +13,7 @@ Tijdens de [selectiedag](https://productbiografie.dandevri.es/research/SCENARIO.
 Als oplossing ontwikkel ik een website die dient als [toolkit](https://productbiografie.dandevri.es/prototyping/TOOLKIT.html). Via de toolkit kunnen de observanten verschillende [WebVR puzzels](https://productbiografie.dandevri.es/concepting/IDEAS.html) opstarten die de observanten vervolgens kunnen inzetten tijdens de selectiedag.
 
 ![Kantoor](/img/kantoor.jpg)
+> Figuur 1: Het kantoor aan de Oosterdokskade in Amsterdam. Je ziet mij werken aan het einde van de rechterkant van de tafel.
 
 ## Ontwerpvraag
 
@@ -43,6 +44,7 @@ Na afloop worden de kandidaten telefonisch geïnformeerd waarom ze wel al dan ni
 Als uit de selectiedag blijkt dat je geschikt bent wordt je voor een laatste gesprek uitgenodigd. Dit gesprek is met de oprichters van de [&samhoud](http://www.samhoud.com/), op basis hiervan kan de kandidaat alsnog worden afgewezen.
 
 ![Scenario](/img/scenario.jpg)
+> Figuur 2: Een diagram van het recruitment process.
 
 ### Situatieschets
 De selectiedagen zijn niet frequent, daarbij kwam nog eens dat in verband met de privacy van de kandidaten het voor mij lastig was om een selectiedag bij te wonen. Toch heb ik gedurende dit onderzoek met meerdere kandidaten kunnen spreken. Zowel consultants die nog niet lang bij het bedrijf werken als kandidaten die zijn afgewezen. Zo kon ik alsnog een goede impressie van de selectiedag krijgen:
@@ -190,6 +192,8 @@ Voor de puzzels maak ik uitsluitend gebruik van [A-Frame][frame]. *[Bekijk de vo
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tyo6ARajhEE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+> Video 1: Videoregistratie van de toolkit.
+
 ### 360-video
 
 Via een link (bij de terugkoppeling via email) krijgen de kandidaten na afloop een 360-video met een persoonlijke boodschap van Salem Samhoud, oprichter van de &samhoud groep.
@@ -200,6 +204,7 @@ Vanwege de geringe tijd die we met Salem tot onze beschikking hadden is de video
 Voor aanvang is er kort wat 'location scouting' gedaan. De mondelinge boodschap is bij de video het belangrijkst, de setting en locatie (in het [&moshik][moshik] restaurant) zijn bewust gekozen om afleiding te beperken. Vandaar dat Salem stil aan tafel zit in plaats van meer dynamiek door bijvoorbeeld rondlopen in de ruimte. Hetzelfde gaat op voor audio, vaak maken 360-video's gebruik van [spatial audio](https://code.facebook.com/posts/412047759146896/spatial-audio-bringing-realistic-sound-to-360-video/). Bij de uiteindelijke video's zijn de audio levels constant, ongeacht of je je hoofd draait het volume blijft hetzelfde.
 
 ![Opname Salem](/img/prototype-opname.jpg)
+> Figuur 3: Screenshot van de 360-video opname.
 
 ### Onderzoek
 Gedurende het testen met de camera en voorafgaand aan de opname zijn er een aantal 'best practices' naar voren gekomen:
@@ -227,6 +232,8 @@ Om het 360-video formaat af te kunnen spelen in de browser maak ik wederom gebru
 Browsers blokkeren het [automatisch afspelen](https://developers.google.com/web/updates/2016/07/autoplay) van video's op een smartphone (en binnenkort ook op [Desktop](https://www.theverge.com/2018/5/3/17251104/google-chrome-66-autoplay-sound-videos-mute). Er is een user-gesture nodig, door het klikken van de knop op het opstartscherm begint de video met afspelen.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nQ55enLeDfk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+> Video 2: Videoregistratie van 360-video prototype
 
 ## Conclusie
 
