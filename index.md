@@ -4,11 +4,11 @@ layout: default
 
 ## Introductie
 
-De [consultancy](consultancy.samhoud.com/) tak van [&samhoud](http://www.samhoud.com/) zoekt constant manieren om nieuwe technieken in te zetten tijdens het uitvoeren van hun consultancy taken. Vooral bij recruitment van nieuwe [junior consultants](https://career.samhoud.com/apply?junior-consultant-101367) zien ze veel mogelijkheden om op een meer interactieve en digitale manier het sollicitatieproces te gaan voeren.
+De [consultancy](consultancy.samhoud.com/) tak van [&samhoud](http://www.samhoud.com/) zoekt constant manieren om nieuwe technieken in te zetten tijdens het uitvoeren van consultancy taken. Vooral bij recruitment van nieuwe [junior consultants](https://career.samhoud.com/apply?junior-consultant-101367) zien ze veel mogelijkheden om op een meer interactieve en digitale manier het sollicitatieproces te gaan voeren.
 
 *[Lees meer over de aanleiding van dit project →](https://productbiografie.dandevri.es/introduction/PROJECT.html)*
 
-Tijdens de [selectiedag](https://productbiografie.dandevri.es/research/SCENARIO.html) voor junior consultants worden een aantal cases uitgevoerd die, tot dusver, ‘ouderwets’ op papier werden behandeld. Doormiddel van mijn onderzoek naar [WebVR](https://productbiografie.dandevri.es/vr/TECH.html) en het prototypen van verschillende oplossingrichtingen heb ik een aantal Virtual Reality puzzels gemaakt die als aanvulling kunnen dienen ten opzichte van de huidige cases.
+Tijdens de [selectiedag](https://productbiografie.dandevri.es/research/SCENARIO.html) voor junior consultants worden een aantal cases uitgevoerd die, tot dusver, ‘ouderwets’ op papier werden behandeld. Door middel van mijn onderzoek naar [WebVR](https://productbiografie.dandevri.es/vr/TECH.html) en het prototypen van verschillende oplossingsrichtingen heb ik een aantal Virtual Reality puzzels gemaakt die als aanvulling kunnen dienen op huidige cases.
 
 Als oplossing ontwikkel ik een website die dient als [toolkit](https://productbiografie.dandevri.es/prototyping/TOOLKIT.html). Via de toolkit kunnen de observanten verschillende [WebVR puzzels](https://productbiografie.dandevri.es/concepting/IDEAS.html) opstarten die de observanten vervolgens kunnen inzetten tijdens de selectiedag.
 
@@ -24,28 +24,28 @@ Biedt een [Virtual Reality](https://productbiografie.dandevri.es/vr/VR-OVERVIEW.
 
 *[Lees meer over de opdrachtgever. →](https://productbiografie.dandevri.es/research/STAKEHOLDERS.html)*
 
-Met dit vraagstuk kwam &samhoud consultancy bij dochterbedrijf [&samhoud media][media]. Als creatief bureau, gespecialiseerd in [augmented en virtual reality producties](https://samhoudmedia.com/cases), zag &samhoud media kansen om deze cases met de mogelijkheden van Virtual Reality  een stuk interactiever te maken.
+Met dit vraagstuk kwam &samhoud consultancy (opdrachtgever) bij dochterbedrijf [&samhoud media][media] (opdrachtnemer). Als creatief bureau, gespecialiseerd in [augmented en virtual reality producties](https://samhoudmedia.com/cases), zag &samhoud media kansen om deze cases met de mogelijkheden van Virtual Reality  een stuk interactiever te maken.
 
 *[Bekijk een diagram met alle stakeholders. →](https://productbiografie.dandevri.es/research/STAKEHOLDERS.html)*
 
 ### Probleemsituatie
-Bij de huidige cases op papier ligt de nadruk op het oplossen van een vakinhoudelijke business case. Bijvoorbeed, ‘hier zie je de weekstart van bedrijf X, analyseer de data en pitch een passende oplossing.’ Dit soort cases werken goed om bij een kandidaat te meten of deze structuur aanbrengt door op juiste wijze **projectmanagement** toe te passen of bijvoorbeeld denkt vanuit het perspectief van de klant, **klantgerichtheid**.
+Bij de huidige cases op papier ligt de nadruk op het oplossen van een vakinhoudelijke business case. Bijvoorbeed, ‘hier zie je de weekstart van bedrijf X, analyseer de data en pitch een passende oplossing.’ Dit soort cases werken goed om bij een kandidaat te meten of deze structuur aanbrengt door op juiste wijze **projectmanagement** toe te passen of bijvoorbeeld denkt vanuit het perspectief van de klant (**klantgerichtheid**).
 
-Het probleem bij deze vorm is dat voornamelijk de competenties: **communicatief**, **analytisch** en **samenwerken** door de observanten moeilijk meetbaar zijn. Communicatie en samenwerken zijn, uit ervaring van de observanten, alleen goed te meten in groepsverband terwijl de huidige cases zich vooral focussen op de kandidaat als individu.
+Het probleem bij deze vorm is dat voornamelijk de competenties (**communicatief**, **analytisch** en **samenwerken**) door de observanten moeilijk meetbaar zijn. Communicatie en samenwerken zijn, uit ervaring van de observanten, alleen goed te meten in groepsverband, terwijl de huidige cases zich vooral focussen op de kandidaat als individu.
 
 ## Huidige situatie
-Voor een selectiedag (junior caroussel) worden tussen de 25 á 30 kandidaten uitgenodigd. Na een vooral [informatieve ochtend](https://productbiografie.dandevri.es/research/SCENARIO.html) (met presentaties over de bedrijfsvoering) werken de kandidaten aan een aantal business cases. De kandidaten staan gedurende de dag constant met elkaar in contact. Een groot deel van de selectiedag is in groepsverband maar er zijn ook individuele momenten. Aan de hand van een rooster weten de kandidaten waar ze moeten zijn en wat de tijdsindeling van de dag is, zo bleek uit [interviews met kandidaten](https://productbiografie.dandevri.es/deliverables/INTERVIEW.html).
+Voor een selectiedag (junior carousel) worden tussen de 25 á 30 kandidaten uitgenodigd. Na een [informatieve ochtend](https://productbiografie.dandevri.es/research/SCENARIO.html) (met presentaties over de bedrijfsvoering) werken kandidaten aan business cases. De kandidaten zijn gedurende de dag constant met elkaar in contact. Een groot deel van de selectiedag is in groepsverband, maar er zijn ook individuele momenten. Aan de hand van een rooster weten de kandidaten waar ze moeten zijn en wat de tijdsindeling van de dag is, zo bleek uit [interviews met kandidaten](https://productbiografie.dandevri.es/deliverables/INTERVIEW.html).
 
 *[Lees meer over het scenario gedurende de selectiedag. →](https://productbiografie.dandevri.es/research/SCENARIO.html)*
 
-Na afloop worden de kandidaten via de telefoon geïnformeerd waarom ze wel of niet door zijn. Dit is op basis van de observaties en de competenties die  gedurende de dag tijdens de verschillende onderdelen zijn verzameld op een beoordelingsformulier.
+Na afloop worden de kandidaten telefonisch geïnformeerd waarom ze wel al dan niet door zijn. Dit is op basis van de observaties en de competenties die gedurende de dag tijdens de verschillende onderdelen zijn verzameld op een beoordelingsformulier.
 
 Als uit de selectiedag blijkt dat je geschikt bent wordt je voor een laatste gesprek uitgenodigd. Dit gesprek is met de oprichters van de [&samhoud](http://www.samhoud.com/), op basis hiervan kan de kandidaat alsnog worden afgewezen.
 
 ![Scenario](/img/scenario.jpg)
 
 ### Situatieschets
-De selectiedagen zijn niet erg frequent, daarbij kwam nog eens dat in verband met de privacy van de kandidaten het voor mij lastig was om een selectiedag bij te wonen. Toch heb ik gedurende m'n project met meerdere kandidaten kunnen spreken. Zowel consultants die nog niet lang bij het bedrijf werken als kandidaten die zijn afgewezen. Zo kon ik alsnog een goede impressie van de selectiedag krijgen:
+De selectiedagen zijn niet frequent, daarbij kwam nog eens dat in verband met de privacy van de kandidaten het voor mij lastig was om een selectiedag bij te wonen. Toch heb ik gedurende dit onderzoek met meerdere kandidaten kunnen spreken. Zowel consultants die nog niet lang bij het bedrijf werken als kandidaten die zijn afgewezen. Zo kon ik alsnog een goede impressie van de selectiedag krijgen:
 
 * De selectiedag is voor veel kandidaten een bevestiging dat &samhoud een bedrijf is waar ze voor willen werken. De gehele sfeer die ze verkondigen is erg informeel.
 * Omdat kandidaten veel met elkaar zijn tijdens de procedure let je veel op wat anderen aan het doen zijn. Onzekerheid over je eigen aanpak.
@@ -65,7 +65,7 @@ Als oplossing ontwikkel ik een website die dient als [Toolkit](https://productbi
 
 *[Bekijk de verschillende concepten en ideeën →](https://productbiografie.dandevri.es/concepting/IDEAS.html)*
 
-Om de kandidaten meer in groepsverband een case te laten oplossen is er in een later stadium gekozen om de sterke aspecten van alle puzzels samen te voegen tot een (virtuele) [Escape Room](https://productbiografie.dandevri.es/prototyping/TOOLKIT.html). Vanwege tijdsgebrek heb ik hier alleen een eerste opzet van kunnen maken. 
+Om de kandidaten in groepsverband een case te laten oplossen is er in een later stadium gekozen om de sterke aspecten van alle puzzels samen te voegen tot een (virtuele) [Escape Room](https://productbiografie.dandevri.es/prototyping/TOOLKIT.html). Vanwege tijdsgebrek heb ik hier alleen een eerste opzet van kunnen maken. 
 
 *[Bekijk een overzicht van de requirements en features →](https://productbiografie.dandevri.es/introduction/PROJECT.html)*
 
@@ -73,7 +73,7 @@ Na afloop van de selectiedag nemen de kandidaten de drop-in viewers mee en krijg
 
 ### Profilering
 
-Voor aanvang van het project ligt mijn focus grotendeels op het doen van [onderzoek naar het vakgebied](https://productbiografie.dandevri.es/vr/VR-OVERVIEW.html) en eventueel al het uitwerken van een aantal prototypes. Het vakgebied van VR is op veel vlakken nog een [‘jungle’](https://blog.mozvr.com/the-design-of-firefox-reality/) waardoor er weinig gedocumenteerd staat en literatuur niet makkelijk via zoekmachines en databanken vindbaar is. Later in het project wil ik me meer richten op het hands-on technisch uitwerken van concepten om die tot een [minimum viable product](https://en.wikipedia.org/wiki/Minimum_viable_product) (MVP) uit te werken.
+Ik focus mij op het doen van [onderzoek naar het vakgebied](https://productbiografie.dandevri.es/vr/VR-OVERVIEW.html) en eventueel al het uitwerken van een aantal prototypes. Het vakgebied van VR is op veel vlakken nog een [‘jungle’](https://blog.mozvr.com/the-design-of-firefox-reality/) waardoor er weinig gedocumenteerd staat en literatuur niet makkelijk via zoekmachines en databanken vindbaar is. Later in het project wil ik me meer richten op het hands-on technisch uitwerken van concepten om die tot een [minimum viable product](https://en.wikipedia.org/wiki/Minimum_viable_product) (MVP) uit te werken.
 
 ## Onderbouwing
 
