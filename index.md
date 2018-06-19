@@ -86,7 +86,7 @@ Een digitale case kan de volgende vormen van immersie vergroten:
 * tactische immersie ([Ernest W. Adams](https://en.wikipedia.org/wiki/Ernest_W._Adams)): wanneer een speler tactische operaties uitvoert die een zekere vaardigheid vergen.
 * ruimtelijke immersie ([Staffan Björk](https://itufak.gu.se/english/research/researchers/staffan-bjork)): spatiale of ruimtelijke immersie doet zich voor wanneer een speler de gesimuleerde ruimte als perceptueel overtuigend ervaart.
 
-Daarnaast wordt onderzoek gedaan naar welke activiteiten er plaatsvinden in het brein. Uit recent onderzoek ([Zappar, Heather Andrew](https://www.zappar.com/blog/how-augmented-reality-affects-brain/)) bleek dat een AR toepassing de ‘visual attention’ in het brein vergroot, er wordt 70% meer opgeslagen in het geheugen ten opzichte van tekst op papier.
+Ook wordt onderzoek gedaan naar welke activiteiten er plaatsvinden in het brein. Uit recent onderzoek ([Zappar, Heather Andrew](https://www.zappar.com/blog/how-augmented-reality-affects-brain/)) bleek dat een AR toepassing de ‘visual attention’ in het brein vergroot, er wordt 70% meer opgeslagen in het geheugen ten opzichte van tekst op papier.
 
 Het British Musem heeft in 2015 ([Museums and the Web, 2016](https://mw2016.museumsandtheweb.com/paper/virtual-reality-at-the-british-museum-what-is-the-value-of-virtual-reality-environments-for-learning-by-children-and-young-people-schools-and-families/)) geëxperimenteerd met het inzetten van Virtual Reality om de waarde van dit medium te meten. Wederom was de conclusie dat VR een positieve impact heeft op de reactie en participatie van gebruikers.
 
@@ -96,7 +96,7 @@ Het British Musem heeft in 2015 ([Museums and the Web, 2016](https://mw2016.muse
 Als de kandidaten in groepsverband gaan werken is het voor de observanten interessant om te zien hoe de kandidaten zich in een groep gedragen tijdens de ervaring. Doordat kandidaten de head-mounted displays op hebben kunnen ze alleen door spraak met elkaar communiceren waardoor de teamrollen volgens het [Belbin Model](http://www.belbin.com/about/belbin-team-roles/) van [Meredith Belbin](http://www.belbin.com/about/dr-meredith-belbin/) beter naar voren komen.
 
 #### Context
-Daarnaast is het credo van &samhoud [‘usual unusual’](http://consultancy.samhoud.com/en/about), met recruitment wordt altijd geprobeerd anders te zijn dan de rest. Een VR toepassing tijdens een sollicitatie past bij deze visie en de strategie om altijd te [innoveren](http://inspiration.samhoud.com/category/business-2/) in recruitment.
+Het credo van &samhoud is [‘usual unusual’](http://consultancy.samhoud.com/en/about). Met recruitment wordt altijd geprobeerd anders te zijn dan de rest. Een VR toepassing tijdens een sollicitatie past bij deze visie en de strategie om altijd te [innoveren](http://inspiration.samhoud.com/category/business-2/) in recruitment.
 
 Tijdens de selectiedag is het van belang een bepaalde impressie achter te laten bij de kandidaten over de bedrijfsvoering van de consultancy tak. Kandidaten worden met een interactieve toepassing op een positieve manier verrast en maken kennis met de mogelijkheden van andere [business lines](http://www.samhoud.com/#brands) binnen de &samhoud group.
 
