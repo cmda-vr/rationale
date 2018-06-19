@@ -177,11 +177,8 @@ Zo is de broncode en documentatie voor iedereen inzichtelijk. Deze manier van we
 ### Toolkit
 *[Sprint 2 - Puzzels →](https://productbiografie.dandevri.es/prototyping/SPRINT-2.html)*
 
-Na het opzetten van de boilerplates en de eerste technische opzet ben ik de eerste puzzels gaan uitwerken. Met de teamrollen van Belbin in het achterhoofd ben ik aan de slag gegaan met het prototypen van een versimpelde versies van [Keep Talking and Nobody Explodes](https://productbiografie.dandevri.es/concepting/IDEAS.html), [I Expect You To Die](https://productbiografie.dandevri.es/concepting/IDEAS.html) en de [Soma Cube van Piet Hein](https://en.wikipedia.org/wiki/Soma_cube).
-
-#### Escape Room
-*[Sprint 5 - Escape Room →](https://productbiografie.dandevri.es/prototyping/SPRINT-5.html)*
-In een later stadium van het project zijn we op het idee gekomen om een (virtuele) [Escape Room](https://productbiografie.dandevri.es/prototyping/SPRINT-5.html) na te bootsen. In het volgende hoofdstuk leg ik uit hoe dit iteratieve proces, van het [uitwerken van de prototypes](https://productbiografie.dandevri.es/prototyping/SPRINT-2.html) is verlopen.
+Na het opzetten van de boilerplates en de eerste technische opzet ben ik de eerste puzzels gaan uitwerken. Met de teamrollen van Belbin in het achterhoofd ben ik aan de slag gegaan met het prototypen van een versimpelde versies van [Keep Talking and Nobody Explodes](https://productbiografie.dandevri.es/concepting/IDEAS.html), [I Expect You To Die](https://productbiografie.dandevri.es/concepting/IDEAS.html) en de [Soma Cube van Piet Hein](https://en.wikipedia.org/wiki/Soma_cube). *[Sprint 5 - Escape Room →](https://productbiografie.dandevri.es/prototyping/SPRINT-5.html)*
+In een later stadium van het project zijn we op het idee gekomen om een (virtuele) [Escape Room](https://productbiografie.dandevri.es/prototyping/SPRINT-5.html) na te bootsen.
 
 De puzzels, waaronder de eerste opzet van de Escape Room, zijn samengebracht tot een centrale toolkit (website) vanwaar alle puzzels gemakkelijk opgestart kunnen worden. De toepassingen worden zo op een centrale plek gehost en de puzzels kunnen op deze manier vanuit één website makkelijk opgestart kunnen worden.
 
