@@ -156,22 +156,22 @@ Voor gebruikers is het, door de komst van VR op het web ten opzichte van specifi
   
 ## Concepting
 
-Na inzage te hebben gehad in het beoordelingsformulier en een aantal voorbeeldcases die tijdens de selectiedag worden uitgevoerd ben ik samen met de opdrachtnemer aan de slag gegaan met het uitwerken van een aantal eerste ideeën. Daarbij hebben we geprobeerd een antwoord te vinden voor de design challenge. Het is vooral van belang om goed te kijken naar de competenties die tijdens de selectiedag worden gemeten.
+Na inzage te hebben gehad in het beoordelingsformulier en een aantal voorbeeldcases die tijdens de selectiedag worden uitgevoerd ben ik samen met de opdrachtnemer aan de slag gegaan met het uitwerken van een aantal [eerste ideeën](https://productbiografie.dandevri.es/concepting/IDEAS.html). Daarbij hebben we geprobeerd een antwoord te vinden voor de design challenge. Het is vooral van belang om goed te kijken naar de competenties die tijdens de selectiedag worden gemeten.
 
 Na brainstormen, [idee ontwikkeling](https://productbiografie.dandevri.es/concepting/IDEAS.html), de afbakening van techniek, [interactie](https://productbiografie.dandevri.es/vr/INTERACTIE.html) en hardware zijn we uiteindelijk op twee producten uitgekomen om te prototypen. In eerste instantie een aantal versimpelde cases op basis van verschillende Virtual Reality puzzle games. In een later stadium van het project zijn we op het idee gekomen om een (virtuele) [Escape Room](https://productbiografie.dandevri.es/prototyping/SPRINT-5.html) na te bootsen.
 
-Na afloop van de selectiedag nemen de kandidaten de drop-in viewers mee en krijgen ze een persoonlijke boodschap van oprichter Salem Samhoud mee in de vorm van een [360-video](https://productbiografie.dandevri.es/prototyping/VIDEO.html). Daarnaast is het een idee om de kandidaten achteraf de optie te geven om hun eigen sessie terug te kijken.
+Na afloop van de selectiedag nemen de kandidaten de drop-in viewers mee en krijgen ze een persoonlijke boodschap van oprichter [Salem Samhoud](http://consultancy.samhoud.com/en/person/salem-samhoud) mee in de vorm van een [360-video](https://productbiografie.dandevri.es/prototyping/VIDEO.html). Daarnaast is het een idee om de kandidaten achteraf de optie te geven om hun eigen sessie terug te kijken.
 
 ## Prototypes
 
 ### Technische uitwerking
 *[Sprint 1 - Boilerplates →](https://productbiografie.dandevri.es/prototyping/SPRINT-1.html)*
 
-Het uitwerken van de prototypes is vooral technisch van aard. In een vrij vroeg stadium heb ik aangegeven dat ik alle prototypes publiekelijk (open-source) wou ontwikkelen. Vrijwel vanaf het begin heb ik toestemming gekregen om een [GitHub organisatie][github] aan te maken, een pagina waarin alle broncode van de prototypes te vinden zijn.
+Het uitwerken van de prototypes is vooral technisch van aard. In een vrij vroeg stadium heb ik aangegeven dat ik alle prototypes publiekelijk ([open-source](https://productbiografie.dandevri.es/misc/LICENSING.html)) wou ontwikkelen. Vrijwel vanaf het begin heb ik toestemming gekregen om een [GitHub organisatie][github] aan te maken, een pagina waarin alle broncode van de prototypes te vinden zijn.
 
 *[Meer over eigendom en open-source werken →](https://productbiografie.dandevri.es/misc/LICENSING.html)*
 
-Zo is de broncode en documentatie voor iedereen inzichtelijk. Deze manier van werken zorgt ervoor dat ik snel iteratief kan werken en gemakkelijk feedback kan vergaren van andere ontwikkelaars.
+Zo is de broncode en [documentatie](https://github.com/samhoudmedia/docs) voor iedereen inzichtelijk. Deze manier van werken zorgt ervoor dat ik snel iteratief kan werken en gemakkelijk feedback kan vergaren van andere ontwikkelaars.
 
 ### Toolkit
 *[Sprint 2 - Puzzels →](https://productbiografie.dandevri.es/prototyping/SPRINT-2.html)*
@@ -184,9 +184,9 @@ De puzzels, waaronder de eerste opzet van de Escape Room, zijn samengebracht tot
 ### Techniek
 *[Sprint 4 - Toolkit →](https://productbiografie.dandevri.es/prototyping/SPRINT-4.html)*
 
-[Node.js](https://nodejs.org/en/), [Express](https://expressjs.com/) en [Pug](https://pugjs.org/api/getting-started.html) is de tech stack die de desbetreffende pagina's renderen en doorlinken naar de juiste puzzels. De opzet met Node en Express is vooral gekozen voor de eventuele enhancement van een accountsysteem. De toolkit is alleen bedoelt voor intern gebruik. Een eventuele feature, die ik nog graag had willen toevoegen, is dat alleen observanten met een &samhoud mailadres kunnen inloggen.
+[Node.js](https://nodejs.org/en/), [Express](https://expressjs.com/) en [Pug](https://pugjs.org/api/getting-started.html) is de tech stack die de desbetreffende pagina's renderen en doorlinken naar de juiste puzzels. De opzet met Node en Express is vooral gekozen voor de eventuele enhancement van een [accountsysteem](http://www.passportjs.org/). De toolkit is alleen bedoelt voor intern gebruik. Een eventuele feature, die ik nog graag had willen toevoegen, is dat alleen observanten met een &samhoud mailadres kunnen inloggen.
 
-Voor de puzzels maak ik uitsluitend gebruik van [A-Frame][frame]. *[Bekijk de volledige Tech Stack →](https://productbiografie.dandevri.es/prototyping/TOOLKIT.html)* Voor het registeren van componenten heb ik in eerste instantie een boilerplate opgezet die de applicatie met [Webpack][webpack] bundled. Voor het downloaden van 3D-modellen gebruik ik voornamelijk andere bronnen: [Google Low Poly][poly] of [Sketchfab][sketchfab].
+Voor de puzzels maak ik uitsluitend gebruik van [A-Frame][frame]. *[Bekijk de volledige Tech Stack →](https://productbiografie.dandevri.es/prototyping/TOOLKIT.html)* Voor het registeren van [componenten](https://aframe.io/docs/0.8.0/core/component.html) heb ik in eerste instantie een [boilerplate](https://github.com/samhoudmedia/aframe-boilerplate) opgezet die de applicatie met [Webpack][webpack] bundled. Voor het downloaden van 3D-modellen gebruik ik voornamelijk andere bronnen: [Google Low Poly][poly] of [Sketchfab][sketchfab].
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tyo6ARajhEE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -194,9 +194,10 @@ Voor de puzzels maak ik uitsluitend gebruik van [A-Frame][frame]. *[Bekijk de vo
 
 Via een link (bij de terugkoppeling via email) krijgen de kandidaten na afloop een 360-video met een persoonlijke boodschap van Salem Samhoud, oprichter van de &samhoud groep.
 
+*[Sprint 3 - 360-video's →](https://productbiografie.dandevri.es/prototyping/SPRINT-3.html)*
 Vanwege de geringe tijd die we met Salem tot onze beschikking hadden is de video opgenomen met een relatief simpele ‘Point and shoot’ [Insta 360](https://www.insta360.com) camera. [Adobe Premiere Pro CC](https://www.adobe.com/products/premiere.html) heeft nieuwe mogelijkheden om 360-video te bewerken. Het syncen van de audio en het toevoegen van graphics (intro en outro) kan met deze tool gemakkelijk zonder veel voorkennis van videobewerking.
 
-Voor aanvang is er kort wat 'location scouting' gedaan. De mondelinge boodschap is bij de video het belangrijkst, de setting en locatie (in het [&moshik][moshik] restaurant) zijn bewust gekozen om afleiding te beperken. Vandaar dat Salem stil aan tafel zit in plaats van meer dynamiek door bijvoorbeeld rondlopen in de ruimte. Hetzelfde gaat op voor audio, vaak maken 360-video's gebruik van spatial audio. Bij de uiteindelijke video's zijn de audio levels constant, ongeacht of je je hoofd draait het volume blijft hetzelfde.
+Voor aanvang is er kort wat 'location scouting' gedaan. De mondelinge boodschap is bij de video het belangrijkst, de setting en locatie (in het [&moshik][moshik] restaurant) zijn bewust gekozen om afleiding te beperken. Vandaar dat Salem stil aan tafel zit in plaats van meer dynamiek door bijvoorbeeld rondlopen in de ruimte. Hetzelfde gaat op voor audio, vaak maken 360-video's gebruik van [spatial audio](https://code.facebook.com/posts/412047759146896/spatial-audio-bringing-realistic-sound-to-360-video/). Bij de uiteindelijke video's zijn de audio levels constant, ongeacht of je je hoofd draait het volume blijft hetzelfde.
 
 ![Opname Salem](/img/prototype-opname.jpg)
 
@@ -219,11 +220,11 @@ Het kost tijd om een gebruiker in 360 zich comfortabel te laten voelen. In de ee
 Daarnaast zat in eerste instantie de melding over audio in de video verwerkt, op dat moment is het al te laat. De video is dan al begonnen met afspelen. Door deze melding te verplaatsen naar een opstartscherm heeft de gebruiker van tevoren tijd om oortjes te pakken of het volume van de speaker te verhogen.
 
 ### Techniek
-Om het 360-video formaat af te kunnen spelen in de browser maak ik gebruik van A-Frame in combinatie met een aantal custom componenten.
+Om het 360-video formaat af te kunnen spelen in de browser maak ik wederom gebruik van A-Frame in combinatie met een aantal [custom componenten](https://github.com/chenzlabs/aframe-360-video-example).
 
 *[Bekijk de volledige Tech Stack →](https://productbiografie.dandevri.es/prototyping/VIDEO.html)*
 
-Browsers blokkeren het automatisch afspelen van video's op een smartphone (en binnenkort ook op Desktop). Er is een user-gesture nodig, door het klikken van de knop op het opstartscherm begint de video met afspelen.
+Browsers blokkeren het [automatisch afspelen](https://developers.google.com/web/updates/2016/07/autoplay) van video's op een smartphone (en binnenkort ook op [Desktop](https://www.theverge.com/2018/5/3/17251104/google-chrome-66-autoplay-sound-videos-mute). Er is een user-gesture nodig, door het klikken van de knop op het opstartscherm begint de video met afspelen.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nQ55enLeDfk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
