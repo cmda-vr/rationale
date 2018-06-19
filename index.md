@@ -190,7 +190,7 @@ De puzzels, waaronder de eerste opzet van de Escape Room, zijn samengebracht tot
 
 [Node.js](https://nodejs.org/en/), [Express](https://expressjs.com/) en [Pug](https://pugjs.org/api/getting-started.html) is de tech stack die de desbetreffende pagina's te renderen en doorlinken naar de juiste puzzels. De opzet met Node en Express is vooral gekozen voor de eventuele enhancement van een accountsysteem. De toolkit is alleen bedoelt voor intern gebruik. Een eventuele feature, die ik nog graag had willen toevoegen, is dat alleen observanten met een &samhoud mailadres kunnen inloggen.
 
-Voor de puzzels maak ik uitsluitend gebruik van [A-Frame][frame]. *[Bekijk de volledige Tech Stack →](https://productbiografie.dandevri.es/prototyping/SHOWCASE.html)* Voor het registeren van componenten heb ik in eerste instantie een boilerplate opgezet die de applicatie met [Webpack][webpack] bundled. Voor het downloaden van 3D-modellen gebruik ik voornamelijk andere bronnen; [Google Low Poly][poly] of [Sketchfab][sketchfab].
+Voor de puzzels maak ik uitsluitend gebruik van [A-Frame][frame]. *[Bekijk de volledige Tech Stack →](https://productbiografie.dandevri.es/prototyping/TOOLKIT.html)* Voor het registeren van componenten heb ik in eerste instantie een boilerplate opgezet die de applicatie met [Webpack][webpack] bundled. Voor het downloaden van 3D-modellen gebruik ik voornamelijk andere bronnen; [Google Low Poly][poly] of [Sketchfab][sketchfab].
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tyo6ARajhEE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
