@@ -15,17 +15,18 @@ Als oplossing ontwikkel ik een website die dient als [toolkit](https://productbi
 ![Kantoor](/img/kantoor.jpg)
 
 ## Ontwerpvraag
+
 *[Bekijk een overzicht van alle onderzoeksvragen. →](https://productbiografie.dandevri.es/research/DESIGN-CHALLENGE.html)*
 
 > Hoe kan een **Web Virtual Reality toepassing** tijdens de **interne selectiedag** van **&samhoud consultancy** de huidige cases aanvullen en interactiever maken zodat **de competenties van aankomende junior consultants** beter te meten zijn?
 
-*[Bekijk een diagram met alle stakeholders. →](https://productbiografie.dandevri.es/research/STAKEHOLDERS.html)*
-
-Biedt een Virtual Reality toepassing in dit geval een meerwaarde in het recruitment process en wat zou deze toepassing moeten bieden om praktisch ingezet te worden?
+Biedt een [Virtual Reality](https://productbiografie.dandevri.es/vr/VR-OVERVIEW.html) toepassing in dit geval een meerwaarde in het recruitment process en wat zou deze toepassing moeten bieden om praktisch ingezet te worden?
 
 *[Lees meer over de opdrachtgever. →](https://productbiografie.dandevri.es/research/STAKEHOLDERS.html)*
 
 Met dit vraagstuk kwam &samhoud consultancy bij dochterbedrijf [&samhoud media][media]. Als creatief bureau, gespecialiseerd in [augmented en virtual reality producties](https://samhoudmedia.com/cases), zag &samhoud media kansen om deze cases met de mogelijkheden van Virtual Reality  een stuk interactiever te maken.
+
+*[Bekijk een diagram met alle stakeholders. →](https://productbiografie.dandevri.es/research/STAKEHOLDERS.html)*
 
 ### Probleemsituatie
 Bij de huidige cases op papier ligt de nadruk op het oplossen van een vakinhoudelijke business case. Bijvoorbeed, ‘hier zie je de weekstart van bedrijf X, analyseer de data en pitch een passende oplossing.’ Dit soort cases werken goed om bij een kandidaat te meten of deze structuur aanbrengt door op juiste wijze **projectmanagement** toe te passen of bijvoorbeeld denkt vanuit het perspectief van de klant, **klantgerichtheid**.
@@ -39,7 +40,7 @@ Voor een selectiedag (junior caroussel) worden tussen de 25 á 30 kandidaten uit
 
 Na afloop worden de kandidaten via de telefoon geïnformeerd waarom ze wel of niet door zijn. Dit is op basis van de observaties en de competenties die  gedurende de dag tijdens de verschillende onderdelen zijn verzameld op een beoordelingsformulier.
 
-Als uit de selectiedag blijkt dat je geschikt bent wordt je voor een laatste gesprek uitgenodigd. Dit gesprek is met de oprichters van &samhoud, op basis hiervan kan je alsnog worden afgewezen.
+Als uit de selectiedag blijkt dat je geschikt bent wordt je voor een laatste gesprek uitgenodigd. Dit gesprek is met de oprichters van de [&samhoud](http://www.samhoud.com/), op basis hiervan kan de kandidaat alsnog worden afgewezen.
 
 ![Scenario](/img/scenario.jpg)
 
@@ -51,18 +52,18 @@ De selectiedagen zijn niet erg frequent, daarbij kwam nog eens dat in verband me
 * De meeste kandidaten zijn zenuwachtig, omdat er van tevoren weinig instructies worden gegeven en ook tijdens de uitleg van de cases wordt er door de recruiters bewust verwarring geschept.
 
 ### Focus Group
-De kandidaten voor de selectiedag gaan straks aan de slag als [junior consultant][profile]. Junior Consultants analyseren business problemen en ontwikkelen effectieve oplossingen. Strategische en abstracte vraagstukken zet een consultant om in concrete acties en methodes, bijvoorbeeld in de vorm van team meetings, trainingen of workshops.
+De kandidaten voor de selectiedag gaan straks aan de slag als [junior consultant][profile]. Junior consultants analyseren business problemen en ontwikkelen effectieve oplossingen. Strategische en abstracte vraagstukken zet een consultant om in concrete acties en methodes, bijvoorbeeld in de vorm van team meetings, trainingen of workshops.
 
 *[Bekijk hier het volledige persona. →](https://productbiografie.dandevri.es/research/FOCUS-GROUP.html)*
 
-Tijdens de werving van kandidaten focussen de recruiters zich vooral op een jongere generatie. De gemiddelde leeftijd van aankomende junior consultants ligt tussen de 23 - 30 jaar. Van net afgestudeerd  (technische of economische opleiding bij voorkeur) tot 3 jaar werkervaring in het vakgebied ([Sascha Vloet, Interview](https://www.linkedin.com/in/saschavloet/?locale=nl_NL)).
+Tijdens de werving van kandidaten focussen de [recruiters](https://career.samhoud.com) zich vooral op een jongere generatie. De gemiddelde leeftijd van aankomende junior consultants ligt tussen de 23 - 30 jaar. Van net afgestudeerd  (technische of economische opleiding bij voorkeur) tot 3 jaar werkervaring in het vakgebied ([Sascha Vloet, Interview](https://www.linkedin.com/in/saschavloet/?locale=nl_NL)).
 
 De recuiters van &samhoud vragen van junior consultants vooral communicatieve, creatieve en analytische vaardigheden ([Vacature, &samhoud consultancy](https://career.samhoud.com/apply?junior-consultant-101367)). De primaire doelgroep tijdens dit project zijn de recruiters (observanten) van &samhoud consultancy. De eindgebruikers van het project zijn de kandidaten van de selectiedag.
 
 ### Oplossing
-Als oplossing ontwikkel ik een website die dient als [Toolkit](https://productbiografie.dandevri.es/prototyping/TOOLKIT.html). In de toolkit zitten een aantal versimpelde cases op basis van verschillende Virtual Reality Puzzle games. De puzzels zijn ontworpen voor [drop-in viewers](https://vr.google.com/cardboard/) waarbij de smartphone gebruikt wordt als head-mounted display, zogeheten [low-cost hardware componenten](https://productbiografie.dandevri.es/vr/HARDWARE.html). *[Lees meer over de soorten hardware. →](https://productbiografie.dandevri.es/research/FOCUS-GROUP.html)* Via de toolkit kunnen de observanten gemakkelijk via een centrale plek de verschillende [WebVR puzzels](https://productbiografie.dandevri.es/concepting/IDEAS.html) opstarten om deze tijdens de selectiedag in te zetten.
+Als oplossing ontwikkel ik een website die dient als [Toolkit](https://productbiografie.dandevri.es/prototyping/TOOLKIT.html). In de toolkit zitten een aantal versimpelde cases op basis van verschillende [Virtual Reality Puzzle games](https://productbiografie.dandevri.es/concepting/IDEAS.html). De puzzels zijn ontworpen voor [drop-in viewers](https://vr.google.com/cardboard/) waarbij de smartphone gebruikt wordt als head-mounted display, zogeheten [low-cost hardware componenten](https://productbiografie.dandevri.es/vr/HARDWARE.html). *[Lees meer over de soorten hardware. →](https://productbiografie.dandevri.es/research/FOCUS-GROUP.html)* Via de toolkit kunnen de observanten gemakkelijk via een centrale plek de verschillende [WebVR puzzels](https://productbiografie.dandevri.es/concepting/IDEAS.html) opstarten om deze tijdens de selectiedag in te zetten.
 
-*[Bekijk de verschillende concepten en ideeën →](https://productbiografie.dandevri.es/introduction/PROJECT.html)*
+*[Bekijk de verschillende concepten en ideeën →](https://productbiografie.dandevri.es/concepting/IDEAS.html)*
 
 Om de kandidaten meer in groepsverband een case te laten oplossen is er in een later stadium gekozen om de sterke aspecten van alle puzzels samen te voegen tot een (virtuele) [Escape Room](https://productbiografie.dandevri.es/prototyping/TOOLKIT.html). Vanwege tijdsgebrek heb ik hier alleen een eerste opzet van kunnen maken. 
 
@@ -72,7 +73,7 @@ Na afloop van de selectiedag nemen de kandidaten de drop-in viewers mee en krijg
 
 ### Profilering
 
-Voor aanvang van het project ligt mijn focus grotendeels op het doen van [onderzoek naar het vakgebied](https://productbiografie.dandevri.es/vr/VR-OVERVIEW.html) en eventueel al het uitwerken van een aantal prototypes. Het vakgebied van VR is op veel vlakken nog een [‘jungle’](https://blog.mozvr.com/the-design-of-firefox-reality/) waardoor er weinig gedocumenteerd staat en literatuur niet makkelijk via zoekmachines en databanken vindbaar is. Later in het project wil ik me meer richten op het hands-on technisch uitwerken van concepten om die tot een minimum viable product (MVP) uit te werken.
+Voor aanvang van het project ligt mijn focus grotendeels op het doen van [onderzoek naar het vakgebied](https://productbiografie.dandevri.es/vr/VR-OVERVIEW.html) en eventueel al het uitwerken van een aantal prototypes. Het vakgebied van VR is op veel vlakken nog een [‘jungle’](https://blog.mozvr.com/the-design-of-firefox-reality/) waardoor er weinig gedocumenteerd staat en literatuur niet makkelijk via zoekmachines en databanken vindbaar is. Later in het project wil ik me meer richten op het hands-on technisch uitwerken van concepten om die tot een [minimum viable product](https://en.wikipedia.org/wiki/Minimum_viable_product) (MVP) uit te werken.
 
 ## Onderbouwing
 
@@ -82,8 +83,8 @@ Voor aanvang van het project ligt mijn focus grotendeels op het doen van [onderz
 Een Virtual Reality toepassing vergroot over het algemeen de **user engagement**. Doordat de cases interactiever en visueler zijn gaan mensen eerder op in de ervaring. In de wereld van Virtual Reality wordt dit onderscheden met twee termen ‘Immersie’ ([Frederick P. Brooks](https://www.cs.unc.edu/~brooks/WhatsReal.pdf)) en ‘Presence’ ([Valve, Michael Abrash](http://media.steampowered.com/apps/abrashblog/Abrash%20Dev%20Days%202014.pdf)). 
 
 Een digitale case kan de volgende vormen van immersie vergroten:
-* tactische immersie (Ernest W. Adams): wanneer een speler tactische operaties uitvoert die een zekere vaardigheid vergen.
-* ruimtelijke immersie (Staffan Bjork): spatiale of ruimtelijke immersie doet zich voor wanneer een speler de gesimuleerde ruimte als perceptueel overtuigend ervaart.
+* tactische immersie ([Ernest W. Adams](https://en.wikipedia.org/wiki/Ernest_W._Adams)): wanneer een speler tactische operaties uitvoert die een zekere vaardigheid vergen.
+* ruimtelijke immersie ([Staffan Björk](https://itufak.gu.se/english/research/researchers/staffan-bjork)): spatiale of ruimtelijke immersie doet zich voor wanneer een speler de gesimuleerde ruimte als perceptueel overtuigend ervaart.
 
 Daarnaast wordt onderzoek gedaan naar welke activiteiten er plaatsvinden in het brein. Uit recent onderzoek ([Zappar, Heather Andrew](https://www.zappar.com/blog/how-augmented-reality-affects-brain/)) bleek dat een AR toepassing de ‘visual attention’ in het brein vergroot, er wordt 70% meer opgeslagen in het geheugen ten opzichte van tekst op papier.
 
@@ -92,15 +93,15 @@ Het British Musem heeft in 2015 ([Museums and the Web, 2016](https://mw2016.muse
 #### Teamrollen
 *[Bekijk een overzicht van verschillende teamrollen. →](https://productbiografie.dandevri.es/concepting/IDEAS.html)*
 
-Als de kandidaten in groepsverband gaan werken is het voor de observanten interessant om te zien hoe de kandidaten zich in een groep gedragen tijdens de ervaring. Doordat kandidaten de head-mounted displays ophebben kunnen ze alleen door spraak met elkaar communiceren waardoor de teamrollen volgens het [Belbin Model](http://www.belbin.com/about/belbin-team-roles/) van [Meredith Belbin](http://www.belbin.com/about/dr-meredith-belbin/) beter naar voren komen.
+Als de kandidaten in groepsverband gaan werken is het voor de observanten interessant om te zien hoe de kandidaten zich in een groep gedragen tijdens de ervaring. Doordat kandidaten de head-mounted displays op hebben kunnen ze alleen door spraak met elkaar communiceren waardoor de teamrollen volgens het [Belbin Model](http://www.belbin.com/about/belbin-team-roles/) van [Meredith Belbin](http://www.belbin.com/about/dr-meredith-belbin/) beter naar voren komen.
 
 #### Context
-Daarnaast is het credo van &samhoud [‘usual unusual’](http://consultancy.samhoud.com/en/about), met recruitment wordt altijd geprobeerd anders te zijn dan de rest. Een VR toepassing tijdens een sollicitatie past bij deze visie en de strategie om altijd te innoveren in recruitment.
+Daarnaast is het credo van &samhoud [‘usual unusual’](http://consultancy.samhoud.com/en/about), met recruitment wordt altijd geprobeerd anders te zijn dan de rest. Een VR toepassing tijdens een sollicitatie past bij deze visie en de strategie om altijd te [innoveren](http://inspiration.samhoud.com/category/business-2/) in recruitment.
 
-Tijdens de selectiedag is het van belang een bepaalde impressie achter te laten bij de kandidaten over de bedrijfsvoering van de consultancy tak. Kandidaten worden met een interactieve toepassing op een positieve manier verrast en maken kennis met de mogelijkheden van andere business lines binnen de &samhoud group.
+Tijdens de selectiedag is het van belang een bepaalde impressie achter te laten bij de kandidaten over de bedrijfsvoering van de consultancy tak. Kandidaten worden met een interactieve toepassing op een positieve manier verrast en maken kennis met de mogelijkheden van andere [business lines](http://www.samhoud.com/#brands) binnen de &samhoud group.
 
 #### Data
-Het zou mogelijk kunnen zijn om de sessie met videocamera's op te nemen, iets wat nu niet gebeurd. Ook zou het voor de observant een mogelijkheid kunnen zijn om [live op een extern scherm](https://productbiografie.dandevri.es/research/REQUIREMENTS-LIST.html) mee te kijken met wat de kandidaten in de head-mounted display zien. Daarnaast is het nog mogelijk om een [reconstructie](https://github.com/dmarcos/aframe-motion-capture-components) (replay) van de sessie te maken door de positie en de input van controllers te [loggen](https://www.npmjs.com/package/aframe-log-component).
+Het zou mogelijk zijn om de sessie met videocamera's op te nemen, iets wat nu niet gebeurd. Ook zou het voor de observant een mogelijkheid kunnen zijn om [live op een extern scherm](https://productbiografie.dandevri.es/research/REQUIREMENTS-LIST.html) mee te kijken met wat de kandidaten in de head-mounted display zien. Daarnaast zou er nog een [reconstructie](https://github.com/dmarcos/aframe-motion-capture-components) (replay) van de sessie gemaakt kunnen worden door de positie en de input van controllers te [loggen](https://www.npmjs.com/package/aframe-log-component).
 
 Deze data is inzetbaar om toekomstige selectiedagen te verbeteren. De observanten kunnen zelf zien hoe sessies verlopen zijn en in het vervolg aanpassingen maken of bij de [terugkoppeling](https://productbiografie.dandevri.es/research/SCENARIO.html) meer (gerichter) feedback geven waarom een kandidaat door of afgewezen is.
 
@@ -108,7 +109,7 @@ Deze data is inzetbaar om toekomstige selectiedagen te verbeteren. De observante
 
 *[Technische termen zijn opgenomen in een verklarende woordenlijst. →](https://productbiografie.dandevri.es/GLOSSARY.html)*
 
-Vanwege de overvloed aan hardware zijn er keuzes gemaakt welke hardware componenten binnen de context van de selectiedag goed werken. De toepassing is geoptimaliseerd voor low-cost components, specifiek de zogeheten drop-in viewers (cardboards) waarbij een kandidaat de smartphone gebruikt als head-mounted display.
+Vanwege de overvloed aan hardware zijn er keuzes gemaakt welke hardware componenten binnen de context van de selectiedag goed werken. De toepassing is geoptimaliseerd voor [low-cost components](https://productbiografie.dandevri.es/vr/HARDWARE.html), specifiek de zogeheten drop-in viewers (cardboards) waarbij een kandidaat de smartphone gebruikt als head-mounted display.
 
 * **Relatief lage opstartkosten**: 
 De drop-in viewers gemaakt van karton of plastic hebben lage inkoopkosten waardoor het goedkoop is om meerdere aan te schaffen voor gebruik in groepsverband tijdens de selectiedag.
@@ -117,22 +118,20 @@ Vanwege het formaat en het gewicht zijn de drop-in viewers makkelijk na afloop m
 * **Opstelling**: 
 Duurdere hardware kits gaan vaak gepaard met kabels, al met al dus een langere opstarttijd. Drop-in viewers maken alleen gebruik van de smartphone van een kandidaat.
 
-Ook na de selectieprocedure op locatie worden de drop-in viewers gebruikt voor een terugkoppeling, de kandidaten kunnen na afloop de drop-in viewer gemakkelijk meenemen.
+Ook na de selectieprocedure op locatie worden de drop-in viewers gebruikt voor een terugkoppeling, de kandidaten kunnen na afloop de drop-in viewers gemakkelijk meenemen.
 
 *[Lees in detail over alle hardware componenten. →](https://productbiografie.dandevri.es/vr/HARDWARE.html)*
 
-De aanschafprijs van hardware en componenten is voor veel consumenten een vrij grote drempel om overheen te stappen. Met de komst van de [‘Cardboard’](https://vr.google.com/cardboard/) is er een hele nieuwe groep consumenten en ontwikkelaars van [VR ervaringen](https://experiments.withgoogle.com/collection/webvr) ontstaan. Cardboard refereert naar de techniek waarbij je een bestaande smartphone omzet in een [‘VR box’](https://www.quora.com/What-is-a-VR-box). De smartphone stop je in een ‘drop-in viewer’ waardoor er een head-mounted display ontstaat.
+De aanschafprijs van hardware en componenten is voor veel consumenten een vrij grote drempel om overheen te stappen. Met de komst van de [‘Cardboard’](https://vr.google.com/cardboard/) is er een hele nieuwe beweging van [VR ervaringen](https://experiments.withgoogle.com/collection/webvr) ontstaan. Cardboard refereert naar de techniek waarbij je een bestaande smartphone omzet in een [‘VR box’](https://www.quora.com/What-is-a-VR-box). De smartphone stop je in een ‘drop-in viewer’ waardoor er een head-mounted display ontstaat.
 
-Voor het project beperken we ons tot drop-in viewers zonder controllers en de magneet als trigger. Er is teveel fragmentatie binnen de soorten drop-in viewers, zoals op de eigen [Google Cardboard specificatie](https://vr.google.com/cardboard/get-cardboard/) site te zien is kun je er niet standaard van uitgaan dat een drop-in viewer de functie van de magneet heeft. 
-
-Daarnaast zijn de prijzen van cardboard viewers zonder magneet vaak goedkoper, zie bijvoorbeeld de [prijzen op Alibaba](https://www.alibaba.com/trade/search?fsb=y&IndexArea=product_en&CatId=&SearchText=cardboard+viewer&viewtype=G), waardoor het qua inkoopkosten aantrekkelijk is om ze in wholesale aan te schaffen. De cardboards worden niet hergebruikt maar meegenomen door de kandidaten waardoor er een groot aantal viewers beschikbaar moet zijn.
+Voor het project beperken we ons tot drop-in viewers zonder controllers en zonder magneet als trigger. Er is teveel fragmentatie binnen de soorten drop-in viewers, zoals te zien is aan het overvloed van drop-in viewers op de [Google Cardboard specificatie](https://vr.google.com/cardboard/get-cardboard/) site. Je kunt er niet standaard van uitgaan dat een drop-in viewer de functie van de magneet heeft. Daarnaast zijn de prijzen van cardboard viewers zonder magneet vaak goedkoper, zie bijvoorbeeld de [prijzen op Alibaba](https://www.alibaba.com/trade/search?fsb=y&IndexArea=product_en&CatId=&SearchText=cardboard+viewer&viewtype=G), waardoor het qua inkoopkosten aantrekkelijk is om ze massaal (wholesale) aan te schaffen. De cardboards worden niet hergebruikt maar meegenomen door de kandidaten waardoor er een groot aantal viewers beschikbaar moet zijn.
 
 ### WebVR als techniek
-Vrijwel alle applicaties die draaien op [dure hardware](https://www.vive.com/eu/product/vive-pro/) zijn zogeheten ‘native’ applicaties die specifiek voor een bepaald platform worden gemaakt. Naast een native applicatie is het mogelijk om een Virtual Reality applicatie te maken die draait in een browser. Dit heeft voor zowel de gebruikers van de applicatie en ontwikkelaars voordelen. 
+Vrijwel alle applicaties die draaien op [dure hardware](https://www.vive.com/eu/product/vive-pro/) zijn zogeheten ‘native’ applicaties die specifiek voor een bepaald platform (iOS, Android) worden gemaakt. Naast een native applicatie is het mogelijk om een Virtual Reality applicatie te maken die draait in een [browser](https://webvr.rocks/firefox). Dit heeft voor zowel de gebruikers van de applicatie en ontwikkelaars voordelen. 
 
 *[Bekijk een inleidende video over WebVR →](https://www.youtube.com/watch?v=Jzrqrji_2xk)*
 
-> Het doel van WebVR is om het voor zowel ontwikkelaars als gebruikers toegankelijker (drempelvrij) te maken om Virtual Reality te ervaren. Ongeacht de devices en input die ze tot hun beschikking hebben. - Google Chrome Developers
+> Het doel van WebVR is om het voor zowel ontwikkelaars als gebruikers toegankelijker (drempelvrij) te maken om Virtual Reality te ervaren. Ongeacht de devices en input die ze tot hun beschikking hebben. - [Google Chrome Developers](https://developers.google.com/web/fundamentals/vr/)
 
 #### Ontwikkelaars
 Voor ontwikkelaars is het ook een stuk toegankelijker geworden om een VR applicatie op het web te ontwikkelen ([Venturebeat, Amir Bozorgzadeh](https://venturebeat.com/2017/03/18/webvr-isnt-sexy-but-it-will-change-the-game-for-vr-this-year/)). 
